@@ -13,9 +13,13 @@ import {
   SelectTrigger,
   SelectValue,
 } from "./select";
-import { useEffect, useState } from "react";
-import dayjs from "dayjs";
-import * as loc from "date-fns/locale";
+import { useState } from "react";
+import { useTranslation } from "react-i18next";
+import {
+  formatLocalizedMonth,
+  formatLocalizedWeekday,
+  getDateFnsLocale,
+} from "../lib/i18n";
 
 export type CalendarProps = React.ComponentProps<typeof DayPicker>;
 
@@ -30,6 +34,7 @@ function DateRangePicker({
   yearMonthDropdownClassName,
   ...props
 }: ExtendedCalendarProps) {
+  const { i18n } = useTranslation();
   const handleCalendarChange = (
     _value: string | number,
     _e: React.ChangeEventHandler<HTMLSelectElement>
@@ -42,19 +47,14 @@ function DateRangePicker({
     _e(_event);
   };
 
-  const languageCode = 'en'
-
-  const locale =
-    languageCode === "en"
-      ? loc["enUS"]
-      : Object.values(loc).find((language) => language.code === languageCode);
+  const locale = i18n?.language ?? "en";
 
   return (
     <DayPicker
-      locale={locale}
+      locale={getDateFnsLocale(locale)}
       formatters={{
-        formatWeekdayName: (date, options) => {
-          return dayjs(date).format("ddd");
+        formatWeekdayName: (date) => {
+          return formatLocalizedWeekday(date, locale);
         },
       }}
       showOutsideDays={showOutsideDays}
@@ -113,9 +113,11 @@ function DateRangePicker({
 
           const selectedYearOrMOnth =
             props?.name == "months"
-              ? dayjs()
-                  .month(props.value as number)
-                  .format("MMM")
+              ? formatLocalizedMonth(
+                  new Date(2000, Number(props.value ?? 0), 1),
+                  locale,
+                  "short"
+                )
               : props?.caption;
 
           return (

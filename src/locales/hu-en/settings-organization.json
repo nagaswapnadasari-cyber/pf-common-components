@@ -1,0 +1,14 @@
+{
+   "cancel": "Cancel",
+   "country_support_email": "Country Support Email",
+   "country_support_url": "Country Support URL",
+   "default": "Default",
+   "email_or_url_required_message": "Note: Either Country Support Email or URL should be provided.",
+   "manage_organization_settings": "Manage Organization Settings",
+   "must_be_valid_email": "Must be a valid email",
+   "must_be_valid_url": "Must be a valid URL",
+   "note_at_least_one_contact": "Note: At least one of the email or URL should be provided.",
+   "organization": "Organization",
+   "organization_display_name": "Organization Display Name",
+   "save": "Save"
+}

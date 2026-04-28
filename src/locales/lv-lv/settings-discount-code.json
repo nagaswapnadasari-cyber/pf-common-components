@@ -1,0 +1,19 @@
+{
+   "cancel": "Atcelt",
+   "course_type": "Kursa veids",
+   "create": "Izveidot",
+   "discount_code": "Atlaides kods",
+   "discount_code_request_notification_users": " Lūdzu, atlasiet lietotājus, kuriem jāsaņem e-pasta paziņojums, kad tiek iesniegts atlaides koda pieprasījums:",
+   "error_loading_discount_code_settings": "Kļūda, ielādējot atlaides koda iestatījumus",
+   "event_type": "Notikuma veids",
+   "finance_admin": "Finanšu administrators",
+   "manage_course_discount_settings": "Kursu atlaižu iestatījumu pārvaldīšana",
+   "manage_event_discount_settings": "Pasākuma atlaižu iestatījumu pārvaldīšana",
+   "manage_event_discount_settings_marketing": "Pasākumu atlaižu iestatījumu pārvaldīšana (Mārketings)",
+   "national_admin": "Valsts administrators",
+   "none": "Nav",
+   "organization": "Organizācija",
+   "request": "Pieprasījums",
+   "save": "Saglabāt",
+   "teacher_discount_privileges": "Programmas organizatora / skolotāja atlaižu koda privilēģijas"
+}

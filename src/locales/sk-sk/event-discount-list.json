@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Presmerovanie na prvú stránku Podrobnosti o aktívnej/úplnej inštancii udalosti.",
+   "event_id_redirect_canceled_event": "Presmerovanie na stránku s podrobnosťami poslednej zrušenej inštancie udalosti.",
+   "event_id_redirect_completed_event": "Presmerovanie na stránku s podrobnosťami poslednej dokončenej inštancie udalosti."
+}

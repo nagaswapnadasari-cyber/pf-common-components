@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "Kërkesa CAF e miratuar",
+   "Caf_request_rejected": "Kërkesa CAF e refuzuar",
+   "approved_and_rejected_contact_note": "Nëse keni pyetje në lidhje me informacionin në këtë email, ju lutemi kontaktoni",
+   "approved_by_label": "E miratoi",
+   "approved_footer_note": "Nuk kërkohet veprim shtesë për këtë kurs.",
+   "approved_intro": "Kërkesa juaj për Formularin e Kontabilitetit të Kursit (CAF) është miratuar.",
+   "below_are_the_details": "Më poshtë janë detajet:",
+   "button_text": "Shko te faqja e kursit",
+   "copyright": "Copyright",
+   "course_dates_label": "Data/datat e kursit",
+   "course_id_label": "ID e kursit",
+   "course_type_label": "Lloji i kursit",
+   "greeting": "I nderuar",
+   "reason_for_rejection": "Arsyeja e refuzimit",
+   "rejected_by_label": "E refuzoi",
+   "rejected_footer_note": "Ju lutemi bëni korrigjimet e kërkuara në formularin e kontabilitetit të kursit dhe paraqitni atë përsëri për përpunim.",
+   "rejected_intro": "Kërkesa juaj për Formularin e Kontabilitetit të Kursit (CAF) është refuzuar.",
+   "sincerely": "Sinqerisht",
+   "submitted_by_label": "E paraqiti",
+   "teacher_name_label": "Emri i mësuesit/mësueseve",
+   "venue_label": "Vendi"
+}

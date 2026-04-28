@@ -1,0 +1,14 @@
+{
+   "cancel": "Ikkanċella",
+   "country_support_email": "Email ta' Appoġġ għall-Pajjiż",
+   "country_support_url": "URL ta' Appoġġ għall-Pajjiż",
+   "default": "Default",
+   "email_or_url_required_message": "Nota: Jew l-Email ta' Appoġġ tal-Pajjiż jew l-URL għandhom jiġu pprovduti.",
+   "manage_organization_settings": "Immaniġġja s-Settings tal-Organiz",
+   "must_be_valid_email": "Għandu jkun email validu",
+   "must_be_valid_url": "Għandu jkun URL validu",
+   "note_at_least_one_contact": "Nota: Għandha tiġi pprovduta mill-inqas waħda mill-email jew l-URL.",
+   "organization": "Organizzazzjoni",
+   "organization_display_name": "Isem tal-Wiri tal-Organizzazzjoni",
+   "save": "Issejvja"
+}

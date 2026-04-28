@@ -1,0 +1,19 @@
+{
+   "cancel": "Ləğv et",
+   "course_type": "Kurs növü",
+   "create": "Yaradın",
+   "discount_code": "Endirim kodu",
+   "discount_code_request_notification_users": " Zəhmət olmasa endirim kodu sorğusu təqdim edildikdə e-poçt bildirişi almalı olan istifadəçiləri seçin:",
+   "error_loading_discount_code_settings": "Endirim kodu parametrlərini yükləməkdə xə",
+   "event_type": "Tədbir növü",
+   "finance_admin": "Maliyyə İdarəsi",
+   "manage_course_discount_settings": "Kurs endirimi parametrlərini idarə edin",
+   "manage_event_discount_settings": "Hadisə endirimi parametrlərini idarə edin",
+   "manage_event_discount_settings_marketing": "Hadisə endirimi parametrlərini idarə edin (Marketinq)",
+   "national_admin": "Milli İdarəetmə",
+   "none": "Heç bir",
+   "organization": "Təşkilat",
+   "request": "İstək",
+   "save": "Saxla",
+   "teacher_discount_privileges": "Proqram Təşkilatçısı/Müəllim endirim kodu"
+}

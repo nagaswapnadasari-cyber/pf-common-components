@@ -1,0 +1,19 @@
+{
+   "cancel": "Cancel",
+   "course_type": "Tipo de curso",
+   "create": "Criar",
+   "discount_code": "Código de desconto",
+   "discount_code_request_notification_users": " Selecione os utilizadores que devem receber uma notificação por correio eletrónico quando é apresentado um pedido de código de desconto:",
+   "error_loading_discount_code_settings": "Erro ao carregar as configurações do código de desconto",
+   "event_type": "Tipo de evento",
+   "finance_admin": "Administração financeira",
+   "manage_course_discount_settings": "Gerir as definições de desconto de curso",
+   "manage_event_discount_settings": "Gerir definições de desconto de eventos",
+   "manage_event_discount_settings_marketing": "Gerir definições de desconto em eventos (Marketing)",
+   "national_admin": "Administração Nacional",
+   "none": "Nenhum",
+   "organization": "Organização",
+   "request": "Pedido",
+   "save": "Guardar",
+   "teacher_discount_privileges": "Organizador do programa / privilégios do código de desconto para professores"
+}

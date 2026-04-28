@@ -1,0 +1,14 @@
+{
+   "cancel": "Cancel·la",
+   "country_support_email": "Correu electrònic de suport del país",
+   "country_support_url": "URL de suport del país",
+   "default": "Per defecte",
+   "email_or_url_required_message": "Nota: s'ha de proporcionar un correu electrònic o una URL de suport del país.",
+   "manage_organization_settings": "Gestiona la configuració de l'organització",
+   "must_be_valid_email": "Ha de ser un correu electrònic vàlid",
+   "must_be_valid_url": "Ha de ser un URL vàlid",
+   "note_at_least_one_contact": "Nota: S'ha de proporcionar almenys un correu electrònic o URL.",
+   "organization": "Organització",
+   "organization_display_name": "Nom de visualització de l'organització",
+   "save": "Desa"
+}

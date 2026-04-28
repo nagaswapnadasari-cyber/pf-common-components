@@ -1,0 +1,14 @@
+{
+   "cancel": "Abbrechen",
+   "country_support_email": "Land Support E-Mail",
+   "country_support_url": "Land Support URL",
+   "default": "Standard",
+   "email_or_url_required_message": "Hinweis: Es sollte entweder die E-Mail des Ländersupports oder die URL angegeben werden.",
+   "manage_organization_settings": "Organisationseinstellungen verwalten",
+   "must_be_valid_email": "Muss eine gültige E-Mail sein",
+   "must_be_valid_url": "Muss eine gültige URL sein",
+   "note_at_least_one_contact": "Hinweis: Mindestens eine der beiden Angaben (E-Mail oder URL) sollte angegeben werden.",
+   "organization": "Organisation",
+   "organization_display_name": "Organisation Anzeigename",
+   "save": "Speichern Sie"
+}

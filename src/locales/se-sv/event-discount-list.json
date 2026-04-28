@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Omdirigering till den första sidan med information om Active/Full Event Instance.",
+   "event_id_redirect_canceled_event": "Omdirigering till sidan Detaljer för den senaste inställda händelsen.",
+   "event_id_redirect_completed_event": "Omdirigering till sidan Detaljer för den senast avslutade händelseinstansen."
+}

@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Geben Sie eine gültige Zahl zwischen 0 und 100 ein.",
+   "event_id_tool_tip": "Wenn Sie die Ereignis-ID nicht kennen, öffnen Sie die Seite \"Ereignisse suchen\" in einem neuen Browserfenster, um nach dem entsprechenden Ereignis zu suchen. In den Suchergebnissen wird die Ereignis-ID in der ersten Spalte angezeigt.",
+   "event_start_date_tool_tip": "Der Rabattcode gilt für Ereignisse mit Startdaten im ausgewählten Zeitraum.",
+   "event_start_dates": "Startdaten der Veranstaltung",
+   "fee_component_discount_code_note": "Hinweis: Bitte geben Sie die Beträge der zu rabattierenden Gebührenkomponenten an. Dieser wird von der eigentlichen Kursgebühr abgezogen. Wenn kein Rabatt gewährt werden soll, geben Sie 0 ein oder lassen Sie das Feld leer.",
+   "final_discount_amount_may_vary_at_registration": "Der endgültige Rabattbetrag kann zum Zeitpunkt der Anmeldung je nach aktueller Kursgebühr, ausgewähltem Gebührenniveau und Organisationsregeln variieren. Den endgültigen, zum aktuellen Zeitpunkt geltenden Rabatt finden Sie im Popup-Fenster „Rabatt anzeigen“."
+}

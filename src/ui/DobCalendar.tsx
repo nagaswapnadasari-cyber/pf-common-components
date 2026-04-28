@@ -1,5 +1,4 @@
 import classNames from "classnames";
-import dayjs from "dayjs";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import * as React from "react";
 import {
@@ -8,7 +7,7 @@ import {
   DropdownProps,
 } from "react-day-picker";
 import { buttonVariants } from "./button";
-import * as loc from "date-fns/locale";
+import { useTranslation } from "react-i18next";
 import {
   Select,
   SelectContent,
@@ -17,6 +16,11 @@ import {
   SelectTrigger,
   SelectValue,
 } from "./select";
+import {
+  formatLocalizedMonth,
+  formatLocalizedWeekday,
+  getDateFnsLocale,
+} from "../lib/i18n";
 import { cn } from "../lib/utils";
 export type CalendarProps = React.ComponentProps<typeof DayPicker>;
 
@@ -34,14 +38,12 @@ function Calendar({
   showOutsideDays = true,
   ...props
 }: CalendarProps) {
-  const languageCode = 'en';
-  const localeObject =
-      languageCode === "en"
-        ? loc["enUS"]
-        : Object.values(loc).find((language) => language.code === languageCode);
+  const { i18n } = useTranslation();
+  const locale = i18n?.language ?? "en";
+  const localeObject = getDateFnsLocale(locale);
   
   const formatWeekdayName = (date: Date) => {
-    return dayjs(date).format("ddd").charAt(0);
+    return formatLocalizedWeekday(date, locale, "narrow");
   };
 
   const handleDayKeyDown: DayKeyboardEventHandler = (day, modifiers, event) => {
@@ -112,6 +114,8 @@ export const YearsAndMonthsDropdown = ({
   children,
   ...props
 }: DropdownProps) => {
+  const { i18n } = useTranslation();
+  const locale = i18n?.language ?? "en";
   const selectClasses = classNames(
     "pr-1.5 h-[30px] text-sm font-semibold focus:border-transparent focus:bg-primary/10 focus:text-primary outline-none border-secondary/20 text-foreground",
     {
@@ -143,7 +147,11 @@ export const YearsAndMonthsDropdown = ({
         <SelectTrigger className={selectClasses}>
           <SelectValue>
             {props.name === "months"
-              ? selected?.props?.children?.toString().substring(0, 3)
+              ? formatLocalizedMonth(
+                  new Date(2000, Number(selected?.props?.value ?? value ?? 0), 1),
+                  locale,
+                  "short"
+                )
               : selected?.props?.children?.toString()}
           </SelectValue>
         </SelectTrigger>
@@ -158,7 +166,11 @@ export const YearsAndMonthsDropdown = ({
                 value={option.props.value?.toString() ?? ""}
               >
                 {props.name === "months"
-                  ? option.props.children?.toString().substring(0, 3)
+                  ? formatLocalizedMonth(
+                      new Date(2000, Number(option.props.value ?? 0), 1),
+                      locale,
+                      "short"
+                    )
                   : option.props.children?.toString()}
               </SelectItem>
             ))}

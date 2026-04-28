@@ -1,0 +1,19 @@
+{
+   "cancel": "Anulează",
+   "course_type": "Tipul cursului",
+   "create": "Creați",
+   "discount_code": "Cod de reducere",
+   "discount_code_request_notification_users": " Vă rugăm să selectați utilizatorii care ar trebui să primească o notificare prin e-mail atunci când este trimisă o cerere de cod de reducere:",
+   "error_loading_discount_code_settings": "Eroare la încărcarea setărilor codului de reducere",
+   "event_type": "Tip eveniment",
+   "finance_admin": "Administrare financiară",
+   "manage_course_discount_settings": "Gestionați setările de reducere a cursului",
+   "manage_event_discount_settings": "Gestionați setările de reducere pentru evenimente",
+   "manage_event_discount_settings_marketing": "Gestionați setările de reducere pentru evenimente (Marketing)",
+   "national_admin": "Administrație națională",
+   "none": "Niciuna",
+   "organization": "Organizație",
+   "request": "Cerere",
+   "save": "Salvați",
+   "teacher_discount_privileges": "Organizator de programe / privilegii de cod de reducere pentru profesori"
+}

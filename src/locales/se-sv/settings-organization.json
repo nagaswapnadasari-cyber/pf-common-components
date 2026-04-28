@@ -1,0 +1,14 @@
+{
+   "cancel": "Avbryt",
+   "country_support_email": "E-post för landssupport",
+   "country_support_url": "URL för landssupport",
+   "default": "Standard",
+   "email_or_url_required_message": "Obs: Antingen e-post eller URL för landssupport ska anges.",
+   "manage_organization_settings": "Hantera organisationsinställningar",
+   "must_be_valid_email": "Måste vara en giltig e-postadress",
+   "must_be_valid_url": "Måste vara en giltig URL",
+   "note_at_least_one_contact": "Obs: Åtminstone en av e-postadresserna eller URL-adresserna ska anges.",
+   "organization": "Organisation",
+   "organization_display_name": "Organisationens visningsnamn",
+   "save": "Spara"
+}

@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Átirányítás az első aktív/teljes eseménytípus részleteit tartalmazó oldalra.",
+   "event_id_redirect_canceled_event": "Átirányítás az utolsó törölt eseménypéldány részleteit tartalmazó oldalra.",
+   "event_id_redirect_completed_event": "Átirányítás az utolsó Befejezett eseménypélda Részletek oldalára."
+}

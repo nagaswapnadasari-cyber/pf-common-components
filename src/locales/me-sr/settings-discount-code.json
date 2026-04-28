@@ -1,0 +1,19 @@
+{
+   "cancel": "Otkaži",
+   "course_type": "Tip kursa",
+   "create": "Kreiraj",
+   "discount_code": "Kod za popust",
+   "discount_code_request_notification_users": " Izaberite korisnike koji bi trebalo da dobiju obaveštenje putem e-pošte kada se pošalje zahtev za kod za popust:",
+   "error_loading_discount_code_settings": "Greška pri učitavanju postavki koda za popust",
+   "event_type": "Tip događaja",
+   "finance_admin": "Finansijski administrator",
+   "manage_course_discount_settings": "Upravljajte podešavanjima popusta na kurs",
+   "manage_event_discount_settings": "Upravljajte podešavanjima popusta na događaje",
+   "manage_event_discount_settings_marketing": "Upravljanje podešavanjima popusta na događaje (marketing)",
+   "national_admin": "Nacionalni administrator",
+   "none": "Nijedan",
+   "organization": "Organizacija",
+   "request": "Zahtev",
+   "save": "Sačuvaj",
+   "teacher_discount_privileges": "Privilegije kodova za popust organizatora programa/nastavnika"
+}

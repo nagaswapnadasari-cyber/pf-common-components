@@ -1,0 +1,19 @@
+{
+   "cancel": "ຍົກເລີກ",
+   "course_type": "ປະເພດວິຊາ",
+   "create": "ສ້າງ",
+   "discount_code": "ລະຫັດສ່ວນຫຼຸດ",
+   "discount_code_request_notification_users": "ກະລຸນາເລືອກຜູ້ໃຊ້ທີ່ຈະໄດ້ຮັບອີເມວແຈ້ງເຕືອນເມື່ອມີການສົ່ງຄຳຮ້ອງຂໍລະຫັດສ່ວນຫຼຸດ:",
+   "error_loading_discount_code_settings": "ຜິດພາດໃນການໂຫຼດການຕັ້ງຄ່າລະຫັດສ່ວນຫຼຸດ",
+   "event_type": "ປະເພດກິດຈະກໍາ",
+   "finance_admin": "Finance Admin",
+   "manage_course_discount_settings": "ຈັດການການຕັ້ງຄ່າສ່ວນຫຼຸດສຳລັບຫຼັກສູດ",
+   "manage_event_discount_settings": "ຈັດການການຕັ້ງຄ່າສ່ວນຫຼຸດສຳລັບກິດຈະກຳ",
+   "manage_event_discount_settings_marketing": "ຈັດການການຕັ້ງຄ່າສ່ວນຫຼຸດສຳລັບເຫດການ (ການຕະຫຼາດ)",
+   "national_admin": "National Admin",
+   "none": "ບໍ່ມີ",
+   "organization": "ອົງການ",
+   "request": "ຮ້ອງຂໍ",
+   "save": "ບັນທຶກ",
+   "teacher_discount_privileges": "ສິດທິພິເສດລະຫັດສ່ວນຫຼຸດສຳລັບຜູ້ຈັດງານ / ຄູສອນໂປຣແກຣມ"
+}

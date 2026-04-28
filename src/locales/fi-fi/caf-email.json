@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF-pyyntö hyväksytty",
+   "Caf_request_rejected": "CAF-pyyntö hylätty",
+   "approved_and_rejected_contact_note": "Jos sinulla on kysyttävää tämän sähköpostin tiedoista, ota yhteyttä",
+   "approved_by_label": "Hyväksynyt",
+   "approved_footer_note": "Tämä kurssi ei vaadi lisätoimenpiteitä.",
+   "approved_intro": "Kurssikirjanpitolomake (CAF) -pyyntönne on hyväksytty.",
+   "below_are_the_details": "Alla ovat yksityiskohdat:",
+   "button_text": "Siirry kurssisivulle",
+   "copyright": "Tekijänoikeus",
+   "course_dates_label": "Kurssin päivämäärät",
+   "course_id_label": "Kurssin tunnus",
+   "course_type_label": "Kurssityyppi",
+   "greeting": "Hyvä",
+   "reason_for_rejection": "Hylkäämisen syy",
+   "rejected_by_label": "Hylännyt",
+   "rejected_footer_note": "Korjaa kurssikirjanpitolomake ja lähetä se uudelleen käsittelyä varten.",
+   "rejected_intro": "Kurssikirjanpitolomake (CAF) -pyyntönne on hylätty.",
+   "sincerely": "Ystävällisin terveisin",
+   "submitted_by_label": "Lähettänyt",
+   "teacher_name_label": "Opettajan nimi/nimet",
+   "venue_label": "Paikka"
+}

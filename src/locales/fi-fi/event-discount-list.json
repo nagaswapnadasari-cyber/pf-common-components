@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Ohjaus ensimmäiselle aktiivisen/täyden tapahtumainstanssin tiedot -sivulle.",
+   "event_id_redirect_canceled_event": "Siirtyminen viimeisimmän perutun tapahtumainstanssin Yksityiskohdat-sivulle.",
+   "event_id_redirect_completed_event": "Ohjaus viimeksi valmistuneen tapahtumainstanssin Tiedot-sivulle."
+}

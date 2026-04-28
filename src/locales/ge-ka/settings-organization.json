@@ -1,0 +1,14 @@
+{
+   "cancel": "გაუქმება",
+   "country_support_email": "ქვეყნის დახმარების ელ.",
+   "country_support_url": "ქვეყნის მხარდაჭერის URL",
+   "default": "სტანდარტული",
+   "email_or_url_required_message": "შენიშვნა: უნდა იყოს მითითებული ქვეყნის მხარდაჭერის ელფოსტა ან URL.",
+   "manage_organization_settings": "ორგანიზაციის პარამეტრების მართ",
+   "must_be_valid_email": "უნდა იყოს მოქმედი ელ. ფოსტა",
+   "must_be_valid_url": "უნდა იყოს მოქმედი URL",
+   "note_at_least_one_contact": "შენიშვნა: უნდა იყოს მოწოდებული მინიმუმ ერთი ელ. ფოსტა ან URL.",
+   "organization": "ორგანიზაცია",
+   "organization_display_name": "ორგანიზაციის ჩვენების სახელი",
+   "save": "შეინახეთ"
+}

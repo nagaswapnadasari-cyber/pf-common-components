@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Pārvirzīšana uz pirmo aktīvā/pilnā notikuma gadījuma detalizētās informācijas lapu.",
+   "event_id_redirect_canceled_event": "Pārvirzīšana uz pēdējā atceltā notikuma gadījuma detalizētās informācijas lapu.",
+   "event_id_redirect_completed_event": "Pārvirzīšana uz pēdējā pabeigtā notikuma gadījuma detalizētās informācijas lapu."
+}

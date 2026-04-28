@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "إعادة التوجيه إلى صفحة تفاصيل أول مثيل حدث نشط/ممتلئ.",
+   "event_id_redirect_canceled_event": "إعادة التوجيه إلى صفحة تفاصيل آخر مثيل حدث ملغى.",
+   "event_id_redirect_completed_event": "إعادة التوجيه إلى صفحة تفاصيل آخر مثيل حدث مكتمل."
+}

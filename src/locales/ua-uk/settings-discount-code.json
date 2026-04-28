@@ -1,0 +1,19 @@
+{
+   "cancel": "Скасувати",
+   "course_type": "Тип курсу",
+   "create": "Створити",
+   "discount_code": "Код знижки",
+   "discount_code_request_notification_users": " Будь ласка, виберіть користувачів, які повинні отримувати сповіщення електронною поштою, коли буде надіслано запит на код знижки:",
+   "error_loading_discount_code_settings": "Помилка завантаження налаштувань коду знижки",
+   "event_type": "Тип події",
+   "finance_admin": "Фінансовий адміністратор",
+   "manage_course_discount_settings": "Керування налаштуваннями знижки на курс",
+   "manage_event_discount_settings": "Керування налаштуваннями знижки на події",
+   "manage_event_discount_settings_marketing": "Керування налаштуваннями знижок на події (маркетинг)",
+   "national_admin": "Національний Адміністратор",
+   "none": "Жоден",
+   "organization": "Організація",
+   "request": "Запит",
+   "save": "Зберегти",
+   "teacher_discount_privileges": "Організатор Програми/Пільги коду знижки для вчителя"
+}

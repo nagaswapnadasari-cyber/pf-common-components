@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Įveskite galiojantį skaičių nuo 0 iki 100.",
+   "event_id_tool_tip": "Jei nežinote renginio ID, atidarykite puslapį „Rasti renginius“ naujame naršyklės lange, kad surastumėte tinkamą renginį. Paieškos rezultatuose renginio ID bus rodomas pirmame stulpelyje.",
+   "event_start_date_tool_tip": "Nuolaidos kodas bus taikomas renginiams, kurių pradžios datos yra pasirinktame intervale.",
+   "event_start_dates": "Renginio pradžios datos",
+   "fee_component_discount_code_note": "Pastaba: Įveskite mokesčio sudedamųjų dalių sumas, kurioms turi būti taikoma nuolaida. Ši suma bus išskaičiuota iš faktinio kurso mokesčio. Jei nuolaida neturi būti taikoma, įveskite 0 arba palikite laukelį tuščią.",
+   "final_discount_amount_may_vary_at_registration": "Galutinė nuolaidos suma gali skirtis registracijos metu, priklausomai nuo dabartinės kurso kainos, pasirinktos kainos ir organizacijos taisyklių. Norėdami pamatyti galutinę taikytiną nuolaidą šiuo metu, žiūrėkite iškylančią langą „Peržiūrėti nuolaidą“."
+}

@@ -5,7 +5,8 @@
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc && postcss src/global.css -o dist/global.css"
+    "build": "node ./node_modules/typescript/lib/tsc.js && node ./node_modules/postcss-cli/index.js src/global.css -o dist/global.css",
+    "typecheck": "node ./node_modules/typescript/lib/tsc.js --noEmit"
   },
   "author": "",
   "license": "ISC",
@@ -45,6 +46,7 @@
     "flag-icons": "7.2.3",
     "fs": "^0.0.1-security",
     "html2pdf.js": "0.10.2",
+    "i18next": "20.6.1",
     "jsonwebtoken": "8.5.1",
     "libphonenumber-js": "1.11.3",
     "lint-staged": "15.4.3",
@@ -54,7 +56,6 @@
     "moment": "2.30.1",
     "moment-timezone": "0.5.46",
     "next": "13.0.6",
-    "next-i18next": "8.9.0",
     "next-share": "0.27.0",
     "nookies": "2.5.2",
     "path": "0.12.7",
@@ -69,6 +70,7 @@
     "react-hook-form": "7.49.2",
     "react-icons": "5.0.1",
     "react-image-crop": "11.0.6",
+    "react-i18next": "11.18.6",
     "react-leaflet": "4.2.1",
     "react-minimal-pie-chart": "8.4.0",
     "react-phone-input-2": "2.15.1",

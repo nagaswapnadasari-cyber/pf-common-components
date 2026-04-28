@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF zahtev prihvaćen",
+   "Caf_request_rejected": "CAF zahtev odbijen",
+   "approved_and_rejected_contact_note": "Ako imate pitanja u vezi sa informacijama u ovom emailu, kontaktirajte",
+   "approved_by_label": "Prihvatio",
+   "approved_footer_note": "Za ovaj kurs nije potrebna dodatna akcija.",
+   "approved_intro": "Vaš zahtev za Course Accounting Form (CAF) je prihvaćen.",
+   "below_are_the_details": "U nastavku su detalji:",
+   "button_text": "Idite na stranicu kursa",
+   "copyright": "Autorska prava",
+   "course_dates_label": "Datum(i) kursa",
+   "course_id_label": "ID kursa",
+   "course_type_label": "Vrsta kursa",
+   "greeting": "Poštovani/a",
+   "reason_for_rejection": "Razlog odbijanja",
+   "rejected_by_label": "Odbio",
+   "rejected_footer_note": "Molimo ispravite potrebne greške u formularu i ponovo ga pošaljite na obradu.",
+   "rejected_intro": "Vaš zahtev za Course Accounting Form (CAF) je odbijen.",
+   "sincerely": "Srdačno",
+   "submitted_by_label": "Poslao/la",
+   "teacher_name_label": "Ime nastavnika/ca",
+   "venue_label": "Mesto"
+}

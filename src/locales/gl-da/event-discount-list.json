@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Omdirigering til den første side med detaljer om aktiv/fuld begivenhedsforekomst.",
+   "event_id_redirect_canceled_event": "Omdirigerer til detaljesiden for den sidst aflyste begivenhedsinstans.",
+   "event_id_redirect_completed_event": "Omdirigerer til detaljesiden for den sidst afsluttede begivenhedsinstans."
+}

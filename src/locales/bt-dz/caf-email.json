@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF ཞུ་འབྲེལ་ གནང་བ་གནང་ཡོད།",
+   "Caf_request_rejected": "CAF ཞུ་འབྲེལ་ བཀག་ཡོད།",
+   "approved_and_rejected_contact_note": "ཁྱེད་ལུ་ ཡི་མེལ་འདི་ནང་གི་བརྡ་དོན་དང་འབྲེལ་བའི་དྲི་བ་ཡོད་པ་ཅིན་ འབྲེལ་བ་འཐབ་གནང་།",
+   "approved_by_label": "གནང་བ་གནང་མི་:",
+   "approved_footer_note": "སྦྱོང་བརྡར་འདི་གི་དོན་ལུ་ ཁ་སྐོང་གི་བྱ་བ་ག་ནི་ཡང་མི་དགོ།",
+   "approved_intro": "ཁྱོད་ཀྱི་སྦྱོང་བརྡར་རྩིས་ཞིབ་འབྲི་ཤོག་ (Course Accounting Form (CAF)) ཞུ་འབྲེལ་ གནང་བ་གནང་ཡོད།",
+   "below_are_the_details": " འོག་ལུ་བརྡ་དོན་ཚུ་ཡོད།:",
+   "button_text": " སློབ་ཚན་ཤོག་ལེབ་ནང་འགྱོ།",
+   "copyright": "ཨཱརིཊི་ ཨོཕ་ ལིབ་བིང་ ༢༠༢༤",
+   "course_dates_label": " སློབ་ཚན་ཚེས་གྲངས།",
+   "course_id_label": " སློབ་ཚན་ཨང་རྟགས།",
+   "course_type_label": " སློབ་ཚན་དབྱེ་ཁག",
+   "greeting": " བརྩེ་བའི་།",
+   "reason_for_rejection": "Reason for rejection",
+   "rejected_by_label": "བཀག་མི་:",
+   "rejected_footer_note": "སྦྱོང་བརྡར་རྩིས་ཞིབ་འབྲི་ཤོག་ལུ་ ཞུ་བ་འབད་མི་བཅོས་ཚབ་ཚུ་བཟོ་སྟེ་ ལཱ་འProcess འབད་ནི་དོན་ལུ་ སླར་ཞུ།",
+   "rejected_intro": "ཁྱོད་ཀྱི་ སྦྱོང་བརྡར་རྩིས་ཞིབ་འབྲི་ཤོག་(Course Accounting Form (CAF)) ཞུ་འབྲེལ་ བཀག་ཡོད།",
+   "sincerely": "བརྩེ་གདུང་དང་བཅསཔ་",
+   "submitted_by_label": " ཕུལ་མཁན།",
+   "teacher_name_label": " དགེ་རྒན་མིང་།",
+   "venue_label": " ཚོགས་སྡེ།"
+}

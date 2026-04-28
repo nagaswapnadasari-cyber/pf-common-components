@@ -1,0 +1,14 @@
+{
+   "cancel": "Отмяна на",
+   "country_support_email": "Имейл за поддръжка за страната",
+   "country_support_url": "URL адрес за подкрепа на страната",
+   "default": "По подразбиране",
+   "email_or_url_required_message": "Забележка: Трябва да се предостави или имейл за поддръжка на страната, или URL адрес.",
+   "manage_organization_settings": "Управление на настройките на организацията",
+   "must_be_valid_email": "Трябва да е валиден имейл",
+   "must_be_valid_url": "Трябва да е валиден URL адрес",
+   "note_at_least_one_contact": "Забележка: Трябва да се посочи поне един от следните адреси: имейл или URL.",
+   "organization": "Организация",
+   "organization_display_name": "Име на организацията",
+   "save": "Запазете"
+}

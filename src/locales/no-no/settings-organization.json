@@ -1,0 +1,14 @@
+{
+   "cancel": "Avbryt",
+   "country_support_email": "E-post for landstøtte",
+   "country_support_url": "Nettadresse for landstøtte",
+   "default": "Standard",
+   "email_or_url_required_message": "Merk: Enten e-post for landstøtte eller URL må oppgis.",
+   "manage_organization_settings": "Administrer organisasjonsinnstillinger",
+   "must_be_valid_email": "Må være en gyldig e-post",
+   "must_be_valid_url": "Må være en gyldig URL",
+   "note_at_least_one_contact": "Merk: Minst en av e-postadressen eller URL-en skal oppgis.",
+   "organization": "Organisasjon",
+   "organization_display_name": "Visningsnavn for organisasjon",
+   "save": "Lagre"
+}

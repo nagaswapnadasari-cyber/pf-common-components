@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Vísa á upplýsingasíðu fyrsta virka/fullbókaða viðburðarins.",
+   "event_id_redirect_canceled_event": "Vísa á upplýsingasíðu síðasta aflýsta viðburðarins.",
+   "event_id_redirect_completed_event": "Vísa á upplýsingasíðu síðasta lokið viðburðarins."
+}

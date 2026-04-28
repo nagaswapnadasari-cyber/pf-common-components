@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF တောင်းဆိုချက် အတည်ပြုပြီး",
+   "Caf_request_rejected": "CAF တောင်းဆိုချက် ပယ်ချခံရသည်",
+   "approved_and_rejected_contact_note": "ဤအီးမေးလ်ပါအချက်အလက်များနှင့်ပတ်သက်ပြီး မေးခွန်းများရှိပါက ဆက်သွယ်ပါ။",
+   "approved_by_label": "အတည်ပြုသူ",
+   "approved_footer_note": "ဤသင်တန်းအတွက် နောက်ထပ် လုပ်ဆောင်ရန် မလိုအပ်ပါ။",
+   "approved_intro": "သင်၏ သင်တန်းစာရင်းကိုင်ပုံစံ (CAF) တောင်းဆိုချက်ကို အတည်ပြုပြီးပါပြီ။",
+   "below_are_the_details": "Below are the details:",
+   "button_text": "Go to Course Page",
+   "copyright": "ART OF LIVING ၂၀၂၄",
+   "course_dates_label": "Course date(s)",
+   "course_id_label": "Course ID",
+   "course_type_label": "Course type",
+   "greeting": "Dear",
+   "reason_for_rejection": "ငြင်းပယ်ရသည့်အကြောင်းရင်း",
+   "rejected_by_label": "ပယ်ချသူ",
+   "rejected_footer_note": "သင်တန်းစာရင်းကိုင်ပုံစံကို ပြင်ဆင်တည်းဖြတ်ပြီး လုပ်ဆောင်ရန်အတွက် ထပ်မံတင်သွင်းပါ။",
+   "rejected_intro": " သင်၏ သင်တန်းစာရင်းကိုင်ပုံစံ (CAF) တောင်းဆိုချက်ကို ပယ်ချခံရသည်။",
+   "sincerely": "လေးစားစွာဖြင့်",
+   "submitted_by_label": "Submitted by",
+   "teacher_name_label": "Teacher Name",
+   "venue_label": "Venue"
+}

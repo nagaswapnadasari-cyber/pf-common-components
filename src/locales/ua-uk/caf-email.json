@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "Запит CAF затверджено",
+   "Caf_request_rejected": "Запит CAF відхилено",
+   "approved_and_rejected_contact_note": "Якщо у вас виникли запитання щодо інформації в цьому електронному листі, будь ласка, зверніться",
+   "approved_by_label": "Затверджено",
+   "approved_footer_note": "Для цього курсу додаткових дій не потрібно.",
+   "approved_intro": "Ваш запит на форму бухгалтерського обліку курсу (CAF) затверджено.",
+   "below_are_the_details": "Нижче наведено деталі:",
+   "button_text": "Перейти на сторінку курсу",
+   "copyright": "Авторське право",
+   "course_dates_label": "Дата(и) курсу",
+   "course_id_label": "ID курсу",
+   "course_type_label": "Тип курсу",
+   "greeting": "Шановний",
+   "reason_for_rejection": "Причина відхилення",
+   "rejected_by_label": "Відхилено",
+   "rejected_footer_note": "Будь ласка, внесіть необхідні виправлення до форми бухгалтерського обліку курсу та надішліть її повторно для обробки.",
+   "rejected_intro": "Ваш запит на форму бухгалтерського обліку курсу (CAF) відхилено.",
+   "sincerely": "З повагою",
+   "submitted_by_label": "Надіслано",
+   "teacher_name_label": "Ім'я викладача(-ів)",
+   "venue_label": "Місце проведення"
+}

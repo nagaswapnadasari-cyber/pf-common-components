@@ -1,0 +1,19 @@
+{
+   "cancel": "Prekliči",
+   "course_type": "Vrsta tečaja",
+   "create": "Ustvarite spletno stran",
+   "discount_code": "Koda popusta",
+   "discount_code_request_notification_users": " Izberite uporabnike, ki naj prejmejo e-poštno obvestilo ob predložitvi zahtevka za kodo popusta:",
+   "error_loading_discount_code_settings": "Napaka pri nalaganju nastavitev popustnega koda",
+   "event_type": "Vrsta dogodka",
+   "finance_admin": "Finančni administrator",
+   "manage_course_discount_settings": "Upravljanje nastavitev popustov za tečaje",
+   "manage_event_discount_settings": "Upravljanje nastavitev popustov za dogodke",
+   "manage_event_discount_settings_marketing": "Upravljanje nastavitev popustov za dogodke (Trženje)",
+   "national_admin": "Državni upravitelj",
+   "none": "Ni",
+   "organization": "Organizacija",
+   "request": "Zahtevek",
+   "save": "Shrani",
+   "teacher_discount_privileges": "Program Organizator / Učitelj koda za popust privilegije"
+}

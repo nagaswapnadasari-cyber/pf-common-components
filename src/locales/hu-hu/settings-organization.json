@@ -1,0 +1,14 @@
+{
+   "cancel": "Törölje",
+   "country_support_email": "Ország Support Email",
+   "country_support_url": "Országtámogatási URL",
+   "default": "Alapértelmezett",
+   "email_or_url_required_message": "Megjegyzés: Vagy az országos ügyfélszolgálat e-mail címét vagy URL-címét kell megadni.",
+   "manage_organization_settings": "Szervezeti beállítások kezelése",
+   "must_be_valid_email": "Érvényes e-mail címnek kell lennie",
+   "must_be_valid_url": "Érvényes URL-nek kell lennie",
+   "note_at_least_one_contact": "Megjegyzés: Legalább az egyik e-mail címet vagy URL-címet meg kell adni.",
+   "organization": "Szervezet",
+   "organization_display_name": "Szervezet megjelenített neve",
+   "save": "Mentés"
+}

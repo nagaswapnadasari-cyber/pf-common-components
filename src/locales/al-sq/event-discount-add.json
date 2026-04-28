@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Futni një numër të vlefshëm midis 0 dhe 100.",
+   "event_id_tool_tip": "Nëse nuk e dini ID e ngjarjes, hapni faqen Gjej Ngjarje në një dritare të re të shfletuesit për të kërkuar ngjarjen e duhur. Në rezultatet e kërkimit, ID e ngjarjes do të shfaqet në kolonën e parë.",
+   "event_start_date_tool_tip": "Kodi i zbritjes do të jetë i zbatueshëm për ngjarjet me data fillimi në rangun e zgjedhur.",
+   "event_start_dates": "Datat e Fillimit të Eventit",
+   "fee_component_discount_code_note": "Shënim: Ju lutemi futni shumat e komponentëve të tarifës që do të zbriten. Kjo do të zbritet nga tarifa aktuale e kursit. Nëse nuk aplikohet asnjë zbritje, futni 0 ose lini fushën bosh.",
+   "final_discount_amount_may_vary_at_registration": "Shuma përfundimtare e zbritjes mund të ndryshojë në kohën e regjistrimit bazuar në tarifën aktuale të kursit, nivelin e zgjedhur të tarifës dhe rregullat e organizimit. Ju lutemi referojuni popujës “Shiko zbritjen” për të parë zbritjen përfundimtare të zbatueshme në kohën aktuale."
+}

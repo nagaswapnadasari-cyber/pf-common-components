@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF-aanvraag goedgekeurd",
+   "Caf_request_rejected": "CAF-aanvraag afgewezen",
+   "approved_and_rejected_contact_note": "Als u vragen heeft over de informatie in deze e-mail, neem dan contact op met",
+   "approved_by_label": "Goedgekeurd door",
+   "approved_footer_note": "Er zijn geen verdere stappen nodig voor deze cursus.",
+   "approved_intro": "Uw aanvraag voor het Course Accounting Form (CAF) is goedgekeurd.",
+   "below_are_the_details": "Hieronder staan de details:",
+   "button_text": "Ga naar de cursuspagina",
+   "copyright": "Copyright",
+   "course_dates_label": "Cursus datum(s)",
+   "course_id_label": "Cursus ID",
+   "course_type_label": "Cursus type",
+   "greeting": "Beste",
+   "reason_for_rejection": "Reden voor afwijzing",
+   "rejected_by_label": "Afgewezen door",
+   "rejected_footer_note": "Corrigeer alstublieft de benodigde fouten in het cursusformulier en dien het opnieuw in voor verwerking.",
+   "rejected_intro": "Uw aanvraag voor het Course Accounting Form (CAF) is afgewezen.",
+   "sincerely": "Met vriendelijke groet",
+   "submitted_by_label": "Ingediend door",
+   "teacher_name_label": "Naam docent(en)",
+   "venue_label": "Locatie"
+}

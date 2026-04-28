@@ -1,0 +1,19 @@
+{
+   "cancel": "Cancel·la",
+   "course_type": "Tipus de curs",
+   "create": "Crea",
+   "discount_code": "Codi de descompte",
+   "discount_code_request_notification_users": "Si us plau, seleccioneu els usuaris que haurien de rebre una notificació per correu electrònic quan se sol·liciti un codi de descompte:",
+   "error_loading_discount_code_settings": "Error en carregar la configuració del codi de descompte",
+   "event_type": "Tipus d'esdeveniment",
+   "finance_admin": "Administrador financer",
+   "manage_course_discount_settings": "Gestiona la configuració de descomptes del curs",
+   "manage_event_discount_settings": "Gestiona la configuració de descomptes de l'esdeveniment",
+   "manage_event_discount_settings_marketing": "Gestionar la configuració de descompte d'esdeveniments (màrqueting)",
+   "national_admin": "Administrador nacional",
+   "none": "Cap",
+   "organization": "Organització",
+   "request": "Sol·licitud",
+   "save": "Desa",
+   "teacher_discount_privileges": "Privilegis de codi de descompte per a organitzadors/professors del programa"
+}

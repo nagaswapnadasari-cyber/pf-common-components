@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "Talba CAF approvata",
+   "Caf_request_rejected": "Talba CAF miċħuda",
+   "approved_and_rejected_contact_note": "Jekk għandek mistoqsijiet dwar l-informazzjoni f'dan l-imejl, jekk jogħġbok ikkuntattja",
+   "approved_by_label": "Approvata minn",
+   "approved_footer_note": "Ma jeħtieġux azzjoni addizzjonali għal dan il-kors.",
+   "approved_intro": "It-talba tiegħek għat-Formola ta' Kontabbiltà tal-Kors (CAF) ġiet approvata.",
+   "below_are_the_details": "Hawn huma d-dettalji:",
+   "button_text": "Mur għall-paġna tal-kors",
+   "copyright": "Drittijiet ta' awtur",
+   "course_dates_label": "Data ta' kors",
+   "course_id_label": "ID tal-kors",
+   "course_type_label": "Tip ta' kors",
+   "greeting": "Għażiż/a",
+   "reason_for_rejection": "Raġuni għal miċħuda",
+   "rejected_by_label": "Miċħud minn",
+   "rejected_footer_note": "Jekk jogħġbok, għamel il-korrezzjonijiet meħtieġa fil-formola tal-kontabbiltà tal-kors u sottomettih mill-ġdid għal ipproċessar.",
+   "rejected_intro": "It-talba tiegħek għat-Formola ta' Kontabbiltà tal-Kors (CAF) ġiet miċħuda.",
+   "sincerely": "Bl-ismijiet tas-sigurtà",
+   "submitted_by_label": "Sottomessa minn",
+   "teacher_name_label": "Isem l-għalliem/a",
+   "venue_label": "Post"
+}

@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF taotlus heaks kiidetud",
+   "Caf_request_rejected": "CAF taotlus tagasi lükatud",
+   "approved_and_rejected_contact_note": "Kui teil on küsimusi selles e-kirjas sisalduva teabe kohta, võtke ühendust",
+   "approved_by_label": "Kinnitanud",
+   "approved_footer_note": "Selle kursuse jaoks pole vaja täiendavaid toiminguid.",
+   "approved_intro": "Teie Course Accounting Form (CAF) taotlus on heaks kiidetud.",
+   "below_are_the_details": "Allpool on üksikasjad:",
+   "button_text": "Mine kursuse lehele",
+   "copyright": "Autoriõigus",
+   "course_dates_label": "Kursuse kuupäev(ad)",
+   "course_id_label": "Kursuse ID",
+   "course_type_label": "Kursuse tüüp",
+   "greeting": "Lugupeetud",
+   "reason_for_rejection": "Tagasilükkamise põhjus",
+   "rejected_by_label": "Tagasi lükanud",
+   "rejected_footer_note": "Palun tehke kursuse aruandevormi vajalikud parandused ja esitage see uuesti töötlemiseks.",
+   "rejected_intro": "Teie Course Accounting Form (CAF) taotlus on tagasi lükatud.",
+   "sincerely": "Lugupidamisega",
+   "submitted_by_label": "Esitanud",
+   "teacher_name_label": "Õpetaja(te) nimi/nimed",
+   "venue_label": "Asukoht"
+}

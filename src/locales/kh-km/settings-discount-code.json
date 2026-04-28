@@ -1,0 +1,19 @@
+{
+   "cancel": "បោះបង់",
+   "course_type": "ប្រភេទវគ្គសិក្សា",
+   "create": "បង្កើត",
+   "discount_code": "កូដបញ្ចុះតម្លៃ",
+   "discount_code_request_notification_users": "សូមជ្រើសរើសអ្នកប្រើប្រាស់ដែលគួរតែទទួលបានការជូនដំណឹងតាមអ៊ីមែលនៅពេលដែលសំណើលេខកូដបញ្ចុះតម្លៃត្រូវបានដាក់ស្នើ:",
+   "error_loading_discount_code_settings": "មាន​បញ្ហា​ក្នុង​ការ​ផ្ទុក​ការ​កំណត់​លេខ​កូដ​បញ្ចុះ​តម្លៃ",
+   "event_type": "ប្រភេទព្រឹត្តិការណ៍",
+   "finance_admin": "អ្នកគ្រប់គ្រងហិរញ្ញវត្ថុ",
+   "manage_course_discount_settings": "ការកំណត់ការបញ្ចុះតម្លៃវគ្គសិក្សា",
+   "manage_event_discount_settings": "ការកំណត់ការបញ្ចុះតម្លៃព្រឹត្តិការណ៍",
+   "manage_event_discount_settings_marketing": "គ្រប់គ្រងការកំណត់ការបញ្ចុះតម្លៃព្រឹត្តិការណ៍ (ទីផ្សារ)",
+   "national_admin": "អ្នកគ្រប់គ្រងថ្នាក់ជាតិ",
+   "none": "គ្មាន",
+   "organization": "អង្គការ",
+   "request": "សំណើ",
+   "save": "រក្សាទុក",
+   "teacher_discount_privileges": "សិទ្ធិអ្នករៀបចំកម្មវិធី / គ្រូបង្រៀន"
+}

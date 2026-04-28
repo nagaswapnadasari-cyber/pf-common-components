@@ -1,0 +1,19 @@
+{
+   "cancel": "Отмена",
+   "course_type": "Тип курса",
+   "create": "Создать",
+   "discount_code": "Код скидки",
+   "discount_code_request_notification_users": " Выберите пользователей, которые должны получать уведомление по электронной почте при отправке запроса на код скидки:",
+   "error_loading_discount_code_settings": "Ошибка при загрузке настроек кода скидки",
+   "event_type": "Тип события",
+   "finance_admin": "Финансовый администратор",
+   "manage_course_discount_settings": "Управление настройками скидок на курсы",
+   "manage_event_discount_settings": "Управление настройками скидок на события",
+   "manage_event_discount_settings_marketing": "Управление настройками скидок на мероприятия (маркетинг)",
+   "national_admin": "Национальный администратор",
+   "none": "Нет",
+   "organization": "Организация",
+   "request": "Запрос",
+   "save": "Сохранить",
+   "teacher_discount_privileges": "Программа-органайзер / Привилегии по коду скидки для учителей"
+}

@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF-Antrag genehmigt",
+   "Caf_request_rejected": "CAF-Antrag abgelehnt",
+   "approved_and_rejected_contact_note": "Wenn Sie Fragen zu den Informationen in dieser E-Mail haben, wenden Sie sich bitte an",
+   "approved_by_label": "Genehmigt von",
+   "approved_footer_note": "Für diesen Kurs sind keine weiteren Schritte erforderlich.",
+   "approved_intro": "Ihr Antrag auf das Course Accounting Form (CAF) wurde genehmigt.",
+   "below_are_the_details": "Hier sind die Details:",
+   "button_text": "Zur Kursseite gehen",
+   "copyright": "Urheberrecht",
+   "course_dates_label": "Kursdatum/-daten",
+   "course_id_label": "Kurs-ID",
+   "course_type_label": "Kurstyp",
+   "greeting": "Sehr geehrte/r",
+   "reason_for_rejection": "Grund für die Ablehnung",
+   "rejected_by_label": "Abgelehnt von",
+   "rejected_footer_note": "Bitte nehmen Sie die erforderlichen Korrekturen im Kursformular vor und reichen Sie es erneut ein.",
+   "rejected_intro": "Ihr Antrag auf das Course Accounting Form (CAF) wurde abgelehnt.",
+   "sincerely": "Mit freundlichen Grüßen",
+   "submitted_by_label": "Eingereicht von",
+   "teacher_name_label": "Name(n) des Lehrers/der Lehrer",
+   "venue_label": "Veranstaltungsort"
+}

@@ -1,0 +1,14 @@
+{
+   "cancel": "Откажи",
+   "country_support_email": "Е-пошта за поддршка на земјата",
+   "country_support_url": "URL за поддршка на земјата",
+   "default": "Стандардно",
+   "email_or_url_required_message": "Забелешка: Треба да се обезбеди е-пошта или URL за поддршка на земјата.",
+   "manage_organization_settings": "Управување со поставките на организацијата",
+   "must_be_valid_email": "Мора да биде валидна е-пошта",
+   "must_be_valid_url": "Мора да биде валиден URL",
+   "note_at_least_one_contact": "Забелешка: Треба да се обезбеди барем една е-пошта или URL адреса.",
+   "organization": "Организација",
+   "organization_display_name": "Име на прикажување на организацијата",
+   "save": "Зачувај"
+}

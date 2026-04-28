@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "0 ilə 100 arasında etibarlı bir rəqəm daxil edin.",
+   "event_id_tool_tip": "Əgər event ID-ni bilmirsinizsə, uyğun eventi axtarmaq üçün yeni brauzer pəncərəsində Hadisələri Tap səhifəsini açın. Axtarış nəticələrində event ID ilk sütunda göstəriləcək.",
+   "event_start_date_tool_tip": "Endirim kodu seçilmiş tarix aralığında başlama tarixi olan tədbirlər üçün tətbiq olunacaq.",
+   "event_start_dates": "Tədbirin Başlama Tarixləri",
+   "fee_component_discount_code_note": "Qeyd: Xahiş edirəm endirim ediləcək ödəniş komponentinin məbləğlərini daxil edin. Bu, faktiki kurs haqqından çıxarılacaq. Heç bir endirim tətbiq edilməzsə, 0 daxil edin və ya sahəni boş buraxın.",
+   "final_discount_amount_may_vary_at_registration": "Son endirim məbləği cari kurs haqqına, seçilmiş ödəniş səviyyəsinə və təşkilat qaydalarına əsasən qeydiyyat zamanı dəyişə bilər. Zəhmət olmasa cari vaxtda tətbiq olunan son endirimi görmək üçün “Endirimə baxın” açılan pənməsinə baxın."
+}

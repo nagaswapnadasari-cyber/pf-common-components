@@ -5,7 +5,7 @@ import DropDownArrow from "../assets/DropDown";
 import * as PopoverPrimitive from "@radix-ui/react-popover";
 import { Command as CommandPrimitive, useCommandState } from "cmdk";
 import { Search } from "lucide-react";
-import { useTranslation } from "next-i18next";
+import { useTranslation } from "react-i18next";
 import * as React from "react";
 import { useRef } from "react";
 import { cn } from "../lib/utils";
@@ -334,6 +334,7 @@ const MVPSelectInput = React.forwardRef<
   }
 >(({ className, onValueChange, ...props }, ref) => {
   const { setSearchValue, open } = React.useContext(dropDownContext);
+  const { t } = useTranslation("bx_v1");
 
   React.useEffect(() => {
     if (open == false) {
@@ -355,9 +356,7 @@ const MVPSelectInput = React.forwardRef<
           onValueChange && onValueChange(value.target.value);
         }}
         {...props}
-        placeholder={
-          props?.placeholder ? props?.placeholder : "Search"
-        }
+        placeholder={props?.placeholder ? props?.placeholder : t("cm_search")}
       />
       <Search className="borde-[2px] mr-2 h-4 w-4 shrink-0 text-primary" />
     </div>
@@ -469,12 +468,11 @@ const MVPSelectEmpty = React.forwardRef<
   React.ComponentPropsWithoutRef<typeof CommandPrimitive.Empty>
 >((props, ref) => {
   const { searchValue } = React.useContext(dropDownContext);
+  const { t } = useTranslation("bx_v1");
 
   return (
     <CommandEmpty ref={ref} className="py-6 text-center text-sm font-medium">
-      {searchValue
-        ? "No search results found"
-        : "No Data"}
+      {searchValue ? t("cm_no_search_results_found") : t("cm_no_data")}
     </CommandEmpty>
   );
 });

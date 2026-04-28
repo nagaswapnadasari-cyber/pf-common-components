@@ -1,0 +1,19 @@
+{
+   "cancel": "Peruuta",
+   "course_type": "Kurssin tyyppi",
+   "create": "Luo",
+   "discount_code": "Alennuskoodi",
+   "discount_code_request_notification_users": " Valitse käyttäjät, jotka saavat sähköposti-ilmoituksen, kun alennuskoodipyyntö lähetetään:",
+   "error_loading_discount_code_settings": "Virhe alennuskoodin asetusten lataamisessa",
+   "event_type": "Tapahtuman tyyppi",
+   "finance_admin": "Taloushallinto",
+   "manage_course_discount_settings": "Hallitse kurssialennusasetuksia",
+   "manage_event_discount_settings": "Tapahtuman alennusasetusten hallinta",
+   "manage_event_discount_settings_marketing": "Tapahtuman alennusasetusten hallinta (markkinointi)",
+   "national_admin": "Kansallinen hallinto",
+   "none": "Ei ole",
+   "organization": "Organisaatio",
+   "request": "Pyyntö",
+   "save": "Tallenna",
+   "teacher_discount_privileges": "Ohjelman järjestäjä / Opettajan alennuskoodin etuoikeudet"
+}

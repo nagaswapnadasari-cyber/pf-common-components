@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF-förfrågan godkänd",
+   "Caf_request_rejected": "CAF-förfrågan avvisad",
+   "approved_and_rejected_contact_note": "Om du har några frågor om informationen i detta e-postmeddelande, vänligen kontakta",
+   "approved_by_label": "Godkänd av",
+   "approved_footer_note": "Inga ytterligare åtgärder krävs för denna kurs.",
+   "approved_intro": "Din förfrågan om Course Accounting Form (CAF) har godkänts.",
+   "below_are_the_details": "Nedan är detaljerna:",
+   "button_text": "Gå till kursidan",
+   "copyright": "Upphovsrätt",
+   "course_dates_label": "Kursdatum",
+   "course_id_label": "Kurs-ID",
+   "course_type_label": "Kurstyp",
+   "greeting": "Kära",
+   "reason_for_rejection": "Anledning till avvisning",
+   "rejected_by_label": "Avvisad av",
+   "rejected_footer_note": "Vänligen gör de nödvändiga korrigeringarna på kursens redovisningsformulär och skicka in det igen för bearbetning.",
+   "rejected_intro": "Din förfrågan om Course Accounting Form (CAF) har avvisats.",
+   "sincerely": "Med vänlig hälsning",
+   "submitted_by_label": "Inlämnad av",
+   "teacher_name_label": "Lärarens namn",
+   "venue_label": "Plats"
+}

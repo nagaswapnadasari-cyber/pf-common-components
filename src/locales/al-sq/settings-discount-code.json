@@ -1,0 +1,19 @@
+{
+   "cancel": "Anuloni",
+   "course_type": "Lloji i kursit",
+   "create": "Krijo",
+   "discount_code": "Kodi i zbritjes",
+   "discount_code_request_notification_users": " Ju lutemi zgjidhni përdoruesit që duhet të marrin një njoftim me email kur dorëzohet një kërkesë për kod zbritje:",
+   "error_loading_discount_code_settings": "Gabim në ngarkim të cilësimeve të kodit",
+   "event_type": "Lloji i ngjarjes",
+   "finance_admin": "Administratori i Financave",
+   "manage_course_discount_settings": "Menaxhoni Cilësimet e Zbritjes",
+   "manage_event_discount_settings": "Menaxhoni Cilësimet e Zbritjes",
+   "manage_event_discount_settings_marketing": "Menaxhoni cilësimet e zbritjes së ngjarjeve (marketing",
+   "national_admin": "Admin Kombëtar",
+   "none": "Asnjë",
+   "organization": "Organizata",
+   "request": "Kërkesë",
+   "save": "Ruaj",
+   "teacher_discount_privileges": "Organizatori i Programit/Privilegjet e kodit të zbritjes"
+}

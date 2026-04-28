@@ -1,0 +1,19 @@
+{
+   "cancel": "Abbrechen",
+   "course_type": "Kurs-Typ",
+   "create": "erstellen.",
+   "discount_code": "Rabatt-Code",
+   "discount_code_request_notification_users": " Bitte wählen Sie die Benutzer aus, die eine E-Mail-Benachrichtigung erhalten sollen, wenn eine Rabattcode-Anforderung eingereicht wird:",
+   "error_loading_discount_code_settings": "Fehler beim Laden der Rabattcode-Einstellungen",
+   "event_type": "Veranstaltungstyp",
+   "finance_admin": "Finanzverwaltung",
+   "manage_course_discount_settings": "Kursrabatt-Einstellungen verwalten",
+   "manage_event_discount_settings": "Einstellungen für Veranstaltungsrabatte verwalten",
+   "manage_event_discount_settings_marketing": "Einstellungen für Veranstaltungsrabatte verwalten (Marketing)",
+   "national_admin": "Nationale Verwaltung",
+   "none": "Keine",
+   "organization": "Organisation",
+   "request": "Request",
+   "save": "Speichern Sie",
+   "teacher_discount_privileges": "Programm-Organisator / Lehrer-Rabattcode Privilegien"
+}

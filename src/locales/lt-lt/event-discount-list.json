@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Peradresavimas į pirmąjį aktyvaus/pilno įvykio atvejo detalių puslapį.",
+   "event_id_redirect_canceled_event": "Peradresavimas į paskutinio atšaukto įvykio atvejo išsamios informacijos puslapį.",
+   "event_id_redirect_completed_event": "Peradresavimas į paskutinio užbaigto įvykio atvejo išsamios informacijos puslapį."
+}

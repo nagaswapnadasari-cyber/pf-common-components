@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "正在重定向到第一个活动/已满活动实例详细信息页面。(Redirecting to the first Active/Full Event Instance Details page.)",
+   "event_id_redirect_canceled_event": "正在重定向到最后一个已取消事件实例的详细信息页面。(Redirecting to the Details page of the last Cancelled Event Instance.)",
+   "event_id_redirect_completed_event": "正在重定向到最后一个已完成事件实例的详细信息页面。(Redirecting to the Details page of the last Completed Event Instance.)"
+}

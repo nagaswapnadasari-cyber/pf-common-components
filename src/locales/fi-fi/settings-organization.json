@@ -1,0 +1,14 @@
+{
+   "cancel": "Peruuta",
+   "country_support_email": "Maatuen sähköpostiosoite",
+   "country_support_url": "Maatuen URL-osoite",
+   "default": "Oletus",
+   "email_or_url_required_message": "Huomautus: Joko maakohtainen tukisähköposti tai URL-osoite on annettava.",
+   "manage_organization_settings": "Organisaation asetusten hallinta",
+   "must_be_valid_email": "Täytyy olla voimassa oleva sähköpostiosoite",
+   "must_be_valid_url": "Täytyy olla kelvollinen URL-osoite",
+   "note_at_least_one_contact": "Huomautus: Ainakin yksi sähköpostiosoite tai URL-osoite on ilmoitettava.",
+   "organization": "Organisaatio",
+   "organization_display_name": "Organisaation näyttönimi",
+   "save": "Tallenna"
+}

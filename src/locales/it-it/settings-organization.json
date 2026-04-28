@@ -1,0 +1,14 @@
+{
+   "cancel": "Annullamento",
+   "country_support_email": "Email di supporto per il paese",
+   "country_support_url": "URL di supporto al paese",
+   "default": "Predefinito",
+   "email_or_url_required_message": "Nota: è necessario fornire l'e-mail di assistenza del Paese o l'URL.",
+   "manage_organization_settings": "Gestione delle impostazioni dell'organizzazione",
+   "must_be_valid_email": "Deve essere un'email valida",
+   "must_be_valid_url": "Deve essere un URL valido",
+   "note_at_least_one_contact": "Nota: è necessario fornire almeno uno degli indirizzi e-mail o URL.",
+   "organization": "Organizzazione",
+   "organization_display_name": "Nome visualizzato dell'organizzazione",
+   "save": "Risparmiare"
+}

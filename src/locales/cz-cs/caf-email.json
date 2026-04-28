@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "Žádost o CAF byla schválena",
+   "Caf_request_rejected": "Žádost o CAF byla zamítnuta",
+   "approved_and_rejected_contact_note": "Pokud máte dotazy k informacím v tomto e-mailu, kontaktujte prosím",
+   "approved_by_label": "Schváleno kým",
+   "approved_footer_note": "Pro tento kurz nejsou vyžadovány žádné další kroky.",
+   "approved_intro": "Vaše žádost o Course Accounting Form (CAF) byla schválena.",
+   "below_are_the_details": "Níže jsou uvedeny podrobnosti:",
+   "button_text": "Přejít na stránku kurzu",
+   "copyright": "Autorská práva",
+   "course_dates_label": "Datum/datumy kurzu",
+   "course_id_label": "ID kurzu",
+   "course_type_label": "Typ kurzu",
+   "greeting": "Vážený/Vážená",
+   "reason_for_rejection": "Důvod zamítnutí",
+   "rejected_by_label": "Zamítnuto kým",
+   "rejected_footer_note": "Proveďte prosím požadované opravy ve formuláři a znovu ho odešlete ke zpracování.",
+   "rejected_intro": "Vaše žádost o Course Accounting Form (CAF) byla zamítnuta.",
+   "sincerely": "S pozdravem",
+   "submitted_by_label": "Podáno kým",
+   "teacher_name_label": "Jméno učitele/učitelů",
+   "venue_label": "Místo konání"
+}

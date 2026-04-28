@@ -1,0 +1,19 @@
+{
+   "cancel": "Ikkanċella",
+   "course_type": "Tip ta' Kors",
+   "create": "Oħloq",
+   "discount_code": "Kodiċi ta' Skont",
+   "discount_code_request_notification_users": " Jekk jogħġbok agħżel l-utenti li għandhom jiksbu notifika bl-email meta titressaq talba għal kodiċi ta 'skont:",
+   "error_loading_discount_code_settings": "Żball fit-tagħbija l-issettjar tal-kodiċi tal-skont",
+   "event_type": "Tip ta' Avveniment",
+   "finance_admin": "Amministratur tal-Finanzi",
+   "manage_course_discount_settings": "Immaniġġja s-Settings tal-Iskkont tal-",
+   "manage_event_discount_settings": "Immaniġġja s-Settings tal-Iskont",
+   "manage_event_discount_settings_marketing": "Immaniġġja l-Issettjar tal-Iskkont tal-Avvenimenti (",
+   "national_admin": "Amministratur Nazzjonali",
+   "none": "Xejn",
+   "organization": "Organizzazzjoni",
+   "request": "Talba",
+   "save": "Issejvja",
+   "teacher_discount_privileges": "Organizzatur tal-Programm/Privileġġi tal-kodiċi ta 'skont"
+}

@@ -1,0 +1,19 @@
+{
+   "cancel": "გაუქმება",
+   "course_type": "კურსის ტიპი",
+   "create": "შექმნა",
+   "discount_code": "ფასდაკლების კოდი",
+   "discount_code_request_notification_users": " გთხოვთ აირჩიოთ მომხმარებლები, რომლებმაც უნდა მიიღონ ელ. ფოსტის შეტყობინება ფასდაკლების",
+   "error_loading_discount_code_settings": "შეცდომა ფასდაკლების კოდის პარ",
+   "event_type": "მოვლენის ტიპი",
+   "finance_admin": "ფინანსური ადმინ",
+   "manage_course_discount_settings": "კურსის ფასდაკლების პარამეტრ",
+   "manage_event_discount_settings": "ღონისძიებების ფასდაკლების",
+   "manage_event_discount_settings_marketing": "ღონისძიების ფასდაკლების პარამეტრების მართვ",
+   "national_admin": "ეროვნული ადმინისტრი",
+   "none": "არცერთი",
+   "organization": "ორგანიზაცია",
+   "request": "მოთხოვნა",
+   "save": "შეინახეთ",
+   "teacher_discount_privileges": "პროგრამის ორგანიზატორი/მასწავლებლის ფასდაკლების"
+}

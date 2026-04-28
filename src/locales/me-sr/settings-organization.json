@@ -1,0 +1,14 @@
+{
+   "cancel": "Otkaži",
+   "country_support_email": "Email za podršku za zemlju",
+   "country_support_url": "URL podrške za zemlju",
+   "default": "Podrazumevano",
+   "email_or_url_required_message": "Napomena: Мора да се унесе или контакт имејл или УРЛ за подршку у држави.",
+   "manage_organization_settings": "Upravljanje podešavanjima organizacije",
+   "must_be_valid_email": "Mora da je važeća e-pošta",
+   "must_be_valid_url": "Mora biti važeći URL",
+   "note_at_least_one_contact": "Napomena: Treba navesti najmanje jednu e-poštu ili URL adresu.",
+   "organization": "Organizacija",
+   "organization_display_name": "Prikazano ime organizacije",
+   "save": "Sačuvaj"
+}

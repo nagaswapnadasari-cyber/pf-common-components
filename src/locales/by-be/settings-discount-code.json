@@ -1,0 +1,19 @@
+{
+   "cancel": "Адмена",
+   "course_type": "Тып курса",
+   "create": "Стварыць",
+   "discount_code": "Код знiжкi",
+   "discount_code_request_notification_users": "Калі ласка, выберыце карыстальнікаў, якія павінны атрымліваць апавяшчэнне па электроннай пошце, калі заяўка на код зніжкі будзе адпраўлена:",
+   "error_loading_discount_code_settings": "Памылка загрузкі налад кода зніжкі",
+   "event_type": "Тып мерапрыемства",
+   "finance_admin": "Фінансавы адміністратар",
+   "manage_course_discount_settings": "Кіраванне наладамі зніжак на курсы",
+   "manage_event_discount_settings": "Кіраванне наладамі зніжак на падзеі",
+   "manage_event_discount_settings_marketing": "Кіраванне наладамі зніжак на мерапрыемствы (маркетынг)",
+   "national_admin": "Нацыянальны адміністратар",
+   "none": "Няма",
+   "organization": "Арганiзацыя",
+   "request": "Запыт",
+   "save": "Захаваць",
+   "teacher_discount_privileges": "Права арганiзатара праграмы / кода знiжкi для выкладчыкаў"
+}

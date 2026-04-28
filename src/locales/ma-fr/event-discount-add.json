@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Entrez un nombre valide entre 0 et 100.",
+   "event_id_tool_tip": "Si vous ne connaissez pas l'ID de l'événement, ouvrez la page Rechercher des événements dans une nouvelle fenêtre de navigateur pour rechercher l'événement approprié. Dans les résultats de la recherche, l'ID de l'événement sera indiqué dans la première colonne.",
+   "event_start_date_tool_tip": "Le code de réduction sera applicable aux événements dont les dates de début se situent dans la plage sélectionnée.",
+   "event_start_dates": "Dates de début de l'événement",
+   "fee_component_discount_code_note": "Note : Veuillez indiquer les montants de la composante des frais à escompter. Ce montant sera déduit du prix réel du cours. Si aucune réduction ne doit être appliquée, indiquez 0 ou laissez le champ vide.",
+   "final_discount_amount_may_vary_at_registration": "Le montant final de la réduction peut varier au moment de l'inscription en fonction du prix actuel du cours, du niveau de frais sélectionné et des règles de l'organisation. Veuillez vous reporter à la fenêtre contextuelle « Afficher la réduction » pour connaître la réduction finale applicable à ce moment-là."
+}

@@ -1,0 +1,14 @@
+{
+   "cancel": "取消",
+   "country_support_email": "国家支持电子邮件",
+   "country_support_url": "国家支持URL",
+   "default": "默认",
+   "email_or_url_required_message": "注：应提供国家支持电子邮件或 URL。",
+   "manage_organization_settings": "管理组织设置",
+   "must_be_valid_email": "必须是有效的电子邮件",
+   "must_be_valid_url": "必须是有效的URL",
+   "note_at_least_one_contact": "注意：必须提供至少一个电子邮件或URL。",
+   "organization": "组织",
+   "organization_display_name": "组织显示名称",
+   "save": "保存"
+}

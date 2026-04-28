@@ -1,5 +1,6 @@
 import "./global.css";
 
+export * from "./i18n/common-components-i18n";
 export * from "./ui/BaseTable";
 export * from "./ui/DateCalendar";
 export * from "./ui/DateField";

@@ -1,0 +1,19 @@
+{
+   "cancel": "Չեղարկել",
+   "course_type": "Դասընթացի տեսակը",
+   "create": "Ստեղծել",
+   "discount_code": "Զեղչի կոդ",
+   "discount_code_request_notification_users": " Խնդրում ենք ընտրել այն օգտվողներին, ովքեր պետք է ստանան էլեկտրոնային փոստի ծանուցում, երբ զեղչային կոդի հարցում է ներկայացվում.",
+   "error_loading_discount_code_settings": "Զեղչի կոդի կարգավորումները բեռնելու սխալ",
+   "event_type": "Միջոցառման տեսակը",
+   "finance_admin": "Ֆինանսական ադմինիստրատ",
+   "manage_course_discount_settings": "Կառավարեք դասընթացի զեղչերի կարգավորումները",
+   "manage_event_discount_settings": "Կառավարեք իրադարձությունների զեղչերի կարգավորումները",
+   "manage_event_discount_settings_marketing": "Կառավարեք իրադարձությունների զեղչերի կարգավորումները (մարքեթինգ)",
+   "national_admin": "Ազգային ադմինիստրատոր",
+   "none": "Ոչ ոք",
+   "organization": "Կազմակերպություն",
+   "request": "Հարցում",
+   "save": "Պահպանել",
+   "teacher_discount_privileges": "Ծրագրի կազմակերպիչ/ Ուսուցչի զեղչային կոդի արտոնություններ"
+}

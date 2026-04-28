@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Doorverwijzen naar de eerste pagina met details over de actieve/volledige gebeurtenisinstantie.",
+   "event_id_redirect_canceled_event": "Doorverwijzen naar de detailpagina van de laatste geannuleerde gebeurtenisinstantie.",
+   "event_id_redirect_completed_event": "Doorverwijzen naar de detailpagina van de laatste voltooide gebeurtenisinstantie."
+}

@@ -1,0 +1,19 @@
+{
+   "cancel": "Anuluj",
+   "course_type": "Typ kursu",
+   "create": "Utwórz",
+   "discount_code": "Kod rabatowy",
+   "discount_code_request_notification_users": " Wybierz użytkowników, którzy powinni otrzymać powiadomienie e-mail po przesłaniu prośby o kod rabatowy:",
+   "error_loading_discount_code_settings": "Błąd podczas ładowania ustawień kodu rabatowego",
+   "event_type": "Typ zdarzenia",
+   "finance_admin": "Administrator finansów",
+   "manage_course_discount_settings": "Zarządzanie ustawieniami zniżek na kursy",
+   "manage_event_discount_settings": "Zarządzanie ustawieniami rabatów na wydarzenia",
+   "manage_event_discount_settings_marketing": "Zarządzanie ustawieniami rabatów na wydarzenia (Marketing)",
+   "national_admin": "Administrator krajowy",
+   "none": "Brak",
+   "organization": "Organizacja",
+   "request": "Żądanie",
+   "save": "Zapisz",
+   "teacher_discount_privileges": "Uprawnienia organizatora programu / kod rabatowy dla nauczycieli"
+}

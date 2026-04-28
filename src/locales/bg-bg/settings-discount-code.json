@@ -1,0 +1,19 @@
+{
+   "cancel": "Отмяна на",
+   "course_type": "Вид на курса",
+   "create": "Създаване на",
+   "discount_code": "Код за отстъпка",
+   "discount_code_request_notification_users": " Моля, изберете потребителите, които трябва да получават имейл известие при подаване на заявка за код за отстъпка:",
+   "error_loading_discount_code_settings": "Грешка при зареждането на настройките за кода за отстъпка",
+   "event_type": "Тип събитие",
+   "finance_admin": "Администратор на финансите",
+   "manage_course_discount_settings": "Управление на настройките за отстъпка за курсове",
+   "manage_event_discount_settings": "Управление на настройките за отстъпки за събития",
+   "manage_event_discount_settings_marketing": "Управление на настройките за отстъпки за събития (Маркетинг)",
+   "national_admin": "Национален администратор",
+   "none": "Няма",
+   "organization": "Организация",
+   "request": "Заявка",
+   "save": "Запазете",
+   "teacher_discount_privileges": "Програмен организатор / привилегии на кода за отстъпка на учителя"
+}

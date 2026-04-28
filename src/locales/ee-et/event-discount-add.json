@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Sisestage kehtiv number vahemikus 0 kuni 100.",
+   "event_id_tool_tip": "Kui te ei tea ürituse ID-d, avage uude brauseriaknasse lehekülg \"Ürituste leidmine\", et otsida sobivat üritust. Otsingutulemustes kuvatakse ürituse ID esimeses veerus.",
+   "event_start_date_tool_tip": "Allahindluskood kehtib üritustele, mille alguskuupäevad jäävad valitud vahemikku.",
+   "event_start_dates": "Sündmuse alguskuupäevad",
+   "fee_component_discount_code_note": "Märkus: Palun sisestage allahindlust taotlevad tasukomponendid. See arvatakse maha tegelikust kursusetasust. Kui allahindlust ei kohaldata, sisestage 0 või jätke väli tühjaks.",
+   "final_discount_amount_may_vary_at_registration": "Lõplik soodustuse summa võib registreerimise ajal varieeruda sõltuvalt kehtivast kursuse hinnast, valitud tasemest ja organisatsiooni eeskirjadest. Palun vaadake hüpikaknas „Vaata soodustust”, et näha hetkel kehtivat lõplikku soodustust."
+}

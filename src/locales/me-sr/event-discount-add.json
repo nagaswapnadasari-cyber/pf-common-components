@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Unesite validan broj između 0 i 100.",
+   "event_id_tool_tip": "Ako ne znate ID događaja, otvorite stranicu Pronađi događaje u novom prozoru pretraživača da biste pronašli odgovarajući događaj. U rezultatima pretrage, ID događaja će biti prikazan u prvoj koloni.",
+   "event_start_date_tool_tip": "Kod za popust će se odnositi na događaje sa datumima početka u izabranom rasponu.",
+   "event_start_dates": "Датуми почетка догађаја",
+   "fee_component_discount_code_note": "Napomena: Molimo unesite iznose komponente naknade koji će biti diskontirani. Ovo će se oduzeti od stvarne naknade za kurs. Ako ne treba primeniti popust, unesite 0 ili ostavite polje prazno.",
+   "final_discount_amount_may_vary_at_registration": "Konačni iznos popusta može varirati u trenutku registracije na osnovu trenutne naknade za kurs, odabranog nivoa naknade i pravila organizacije. Molimo pogledajte skočni prozor „Prikaži popust“ da biste videli konačni primenljivi popust u trenutno vreme."
+}

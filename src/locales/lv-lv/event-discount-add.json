@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Ievadiet derīgu skaitli no 0 līdz 100.",
+   "event_id_tool_tip": "Ja nezināt pasākuma ID, jaunā pārlūkprogrammas logā atveriet lapu Atrast pasākumus, lai meklētu atbilstošo pasākumu. Meklēšanas rezultātos pasākuma ID tiks parādīts pirmajā kolonnā.",
+   "event_start_date_tool_tip": "Atlaides kods būs piemērojams pasākumiem ar sākuma datumiem izvēlētajā diapazonā.",
+   "event_start_dates": "Pasākuma sākuma datumi",
+   "fee_component_discount_code_note": "Piezīme: Lūdzu, ievadiet maksas komponentu summas, kurām tiks piemērota atlaide. Tās tiks atskaitītas no faktiskās kursa maksas. Ja atlaide nav jāpiemēro, ievadiet 0 vai atstājiet šo lauku tukšu.",
+   "final_discount_amount_may_vary_at_registration": "Galīgā atlaides summa reģistrācijas brīdī var atšķirties atkarībā no pašreizējās kursa maksas, izvēlētā maksas līmeņa un organizācijas noteikumiem. Lūdzu, skatieties uzlecošo logu „Skatīt atlaidi”, lai redzētu galīgo piemērojamo atlaidi pašreizējā brīdī."
+}

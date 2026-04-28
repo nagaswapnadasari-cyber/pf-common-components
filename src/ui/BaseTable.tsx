@@ -38,7 +38,7 @@ import {
 } from "../ui/select";
 
 import DropDown from "../assets/DropDown";
-import { useTranslation } from "next-i18next";
+import { useTranslation } from "react-i18next";
 import { debounce } from "lodash";
 interface IBaseTable<TData, TValue> {
   /**
@@ -266,6 +266,7 @@ export function BaseTable<TData, TValue>({
   setUnselectedIds = () => {},
   setSelectAllParent = () => {},
 }: IBaseTable<TData, TValue>) {
+  const { t } = useTranslation(["common", "course.find_course", "bx_v1"]);
   /**
    * Merges user column preferences with UI columns (UNION operation)
    * - Takes all keys from both UI columns and preferences
@@ -501,6 +502,8 @@ export function BaseTable<TData, TValue>({
 
   //state variable to control the opening and closing of the column selector
   const [open, setOpen] = useState(false);
+  const resolvedNoRecordsPlaceholder =
+    noRecordsPlaceholder || t("bx_v1:cm_no_results");
 
   /**
    * This function will set the drop down to open or close
@@ -677,7 +680,7 @@ export function BaseTable<TData, TValue>({
                     className="flex h-10 w-[192px] flex-row justify-between rounded-xl hover:border hover:border-solid hover:border-primary"
                     id="base-table-column-selector-button"
                   >
-                    Columns
+                    {t("course.find_course:columns")}
                     <DropDown />
                   </Button>
                 </DropdownMenuTrigger>
@@ -693,7 +696,9 @@ export function BaseTable<TData, TValue>({
                           onCheckedChange={handleSelectAllChange}
                           id="base-table-column-selector-select-all-checkbox"
                         />
-                        <Text className="text-sm font-bold">Select All</Text>
+                        <Text className="text-sm font-bold">
+                          {t("course.find_course:select_all")}
+                        </Text>
                       </div>
                       {table
                         .getAllColumns()
@@ -767,7 +772,7 @@ export function BaseTable<TData, TValue>({
                         onClick={applyColumnVisibilityChanges}
                         id="base-table-column-selector-apply-button"
                       >
-                        Apply
+                        {t("apply_button")}
                       </Button>
                     </div>
                   </div>
@@ -852,7 +857,7 @@ export function BaseTable<TData, TValue>({
                             onCheckedChange={(value: boolean) => {
                               handleSelectAllCheckboxChange(value);
                             }}
-                            aria-label="Select all"
+                            aria-label={t("course.find_course:select_all")}
                             id="base-table-select-all-checkbox"
                           />
                         </TableHead>
@@ -1024,7 +1029,7 @@ export function BaseTable<TData, TValue>({
                       colSpan={columns?.length}
                       className="h-24 text-left"
                     >
-                      {noRecordsPlaceholder}
+                      {resolvedNoRecordsPlaceholder}
                     </TableCell>
                   </TableRow>
                 )}
@@ -1064,7 +1069,9 @@ export function BaseTable<TData, TValue>({
                     className="h-8 w-[131px]"
                     id="base-table-page-size"
                   >
-                    <Text className="text-grey1">Showing</Text>
+                    <Text className="text-grey1">
+                      {t("course.find_course:showing")}
+                    </Text>
                     <SelectValue />
                   </SelectTrigger>
                   <SelectContent side="top">
@@ -1084,7 +1091,9 @@ export function BaseTable<TData, TValue>({
                     )}
                   </SelectContent>
                 </Select>
-                <Text className="text-sm font-normal">of {total}</Text>
+                <Text className="text-sm font-normal">
+                  {t("course.find_course:of")} {total}
+                </Text>
               </div>
             )}
           </div>
@@ -1109,6 +1118,7 @@ const DataPagination = ({
   pageCount = 1,
   pageSize = 0,
 }: DataPaginationProps) => {
+  const { t } = useTranslation(["common", "bx_v1"]);
   const PagesArray = [];
   const DOTS = ". . .";
   if (pageCount <= 4) {
@@ -1156,7 +1166,7 @@ const DataPagination = ({
           disabled={current <= 1}
           id="base-table-pagination-prev-button"
         >
-          Prev
+          {t("bx_v1:cm_prev")}
         </Button>
       )}
       {/* pages buttons */}
@@ -1190,7 +1200,7 @@ const DataPagination = ({
           disabled={current >= pageCount}
           id="base-table-pagination-next-button"
         >
-          Next
+          {t("next")}
         </Button>
       )}
     </div>

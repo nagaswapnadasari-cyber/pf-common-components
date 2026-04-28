@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "تمت الموافقة على طلب CAF",
+   "Caf_request_rejected": "تم رفض طلب CAF",
+   "approved_and_rejected_contact_note": "إذا كانت لديك أسئلة بخصوص المعلومات الواردة في هذا البريد الإلكتروني، فيرجى الاتصال بـ",
+   "approved_by_label": "تمت الموافقة من قبل",
+   "approved_footer_note": "لا يلزم اتخاذ أي إجراء إضافي لهذه الدورة.",
+   "approved_intro": "تمت الموافقة على طلب نموذج المحاسبة للدورة التدريبية (CAF).",
+   "below_are_the_details": "فيما يلي التفاصيل:",
+   "button_text": "الذهاب إلى صفحة الدورة",
+   "copyright": "فن العيش 2024",
+   "course_dates_label": "تاريخ (تواريخ) الدورة",
+   "course_id_label": "معرف الدورة",
+   "course_type_label": "نوع الدورة",
+   "greeting": "عزيزي/عزيزتي",
+   "reason_for_rejection": "سبب الرفض",
+   "rejected_by_label": "مرفوض من قبل",
+   "rejected_footer_note": "يرجى إجراء التصحيحات المطلوبة على نموذج المحاسبة للدورة التدريبية وإعادة تقديمه للمعالجة.",
+   "rejected_intro": "تم رفض طلب نموذج المحاسبة للدورة التدريبية (CAF).",
+   "sincerely": "بإخلاص",
+   "submitted_by_label": "مقدم الطلب",
+   "teacher_name_label": "اسم المعلم",
+   "venue_label": "المكان"
+}

@@ -1,0 +1,19 @@
+{
+   "cancel": "Törölje",
+   "course_type": "Tanfolyam típusa",
+   "create": "Hozzon létre",
+   "discount_code": "Kedvezményes kód",
+   "discount_code_request_notification_users": " Kérjük, válassza ki azokat a felhasználókat, akik e-mail értesítést kapnak, ha kedvezménykódot kérnek:",
+   "error_loading_discount_code_settings": "Hiba a kedvezménykód beállításainak betöltésekor",
+   "event_type": "Esemény típusa",
+   "finance_admin": "Pénzügyi adminisztráció",
+   "manage_course_discount_settings": "Tanfolyami kedvezmény beállításainak kezelése",
+   "manage_event_discount_settings": "Eseménykedvezmény-beállítások kezelése",
+   "manage_event_discount_settings_marketing": "Eseménykedvezmény-beállítások kezelése (Marketing)",
+   "national_admin": "Nemzeti adminisztráció",
+   "none": "Nincs",
+   "organization": "Szervezet",
+   "request": "Kérés",
+   "save": "Mentés",
+   "teacher_discount_privileges": "Programszervező / Tanári kedvezménykód jogosultságok"
+}

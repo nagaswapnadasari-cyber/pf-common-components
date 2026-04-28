@@ -1,0 +1,14 @@
+{
+   "cancel": "Anulează",
+   "country_support_email": "Email de asistență pentru țară",
+   "country_support_url": "URL de asistență pentru țară",
+   "default": "Implicit",
+   "email_or_url_required_message": "Notă: Trebuie furnizată adresa de e-mail sau URL a serviciului de asistență pentru țară.",
+   "manage_organization_settings": "Gestionați setările organizației",
+   "must_be_valid_email": "Trebuie să fie un e-mail valid",
+   "must_be_valid_url": "Trebuie să fie o adresă URL validă",
+   "note_at_least_one_contact": "Notă: Cel puțin una dintre adresele de e-mail sau URL trebuie să fie furnizată.",
+   "organization": "Organizație",
+   "organization_display_name": "Numele de afișare al organizației",
+   "save": "Salvați"
+}

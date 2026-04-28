@@ -1,0 +1,14 @@
+{
+   "cancel": "ຍົກເລີກ",
+   "country_support_email": "ອີເມວສະໜັບສະໜູນປະເທດ",
+   "country_support_url": "URL ສະໜັບສະໜູນປະເທດ",
+   "default": "ຄ່າເລີ່ມຕົ້ນ",
+   "email_or_url_required_message": "ໝາຍເຫດ: ຄວນໃຫ້ອີເມວ ຫຼື URL ສະໜັບສະໜູນປະເທດໃດໜຶ່ງ.",
+   "manage_organization_settings": "ຈັດການການຕັ້ງຄ່າອົງການ",
+   "must_be_valid_email": "ຕ້ອງເປັນອີເມວທີ່ຖືກຕ້ອງ",
+   "must_be_valid_url": "ຕ້ອງເປັນ URL ທີ່ຖືກຕ້ອງ",
+   "note_at_least_one_contact": "ໝາຍເຫດ: ຕ້ອງໃຫ້ອີເມວ ຫຼື URL ຢ່າງໜ້ອຍໜຶ່ງ.",
+   "organization": "ອົງການ",
+   "organization_display_name": "ຊື່ອົງການທີ່ສະແດງ",
+   "save": "ບັນທຶກ"
+}

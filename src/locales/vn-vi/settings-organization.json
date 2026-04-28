@@ -1,0 +1,14 @@
+{
+   "cancel": "Hủy bỏ",
+   "country_support_email": "Email Hỗ trợ Quốc gia",
+   "country_support_url": "URL Hỗ trợ Quốc gia",
+   "default": "Mặc định",
+   "email_or_url_required_message": "Lưu ý: Cần cung cấp Email hoặc URL Hỗ trợ Quốc gia.",
+   "manage_organization_settings": "Quản lý Cài đặt Tổ chức",
+   "must_be_valid_email": "Phải là một email hợp lệ",
+   "must_be_valid_url": "Phải là một URL hợp lệ",
+   "note_at_least_one_contact": "Lưu ý: Phải cung cấp ít nhất một trong các email hoặc URL.",
+   "organization": "Tổ chức",
+   "organization_display_name": "Tên hiển thị Tổ chức",
+   "save": "Lưu"
+}

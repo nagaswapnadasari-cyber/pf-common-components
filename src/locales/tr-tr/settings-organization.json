@@ -1,0 +1,14 @@
+{
+   "cancel": "İptal",
+   "country_support_email": "Ülke Destek E-postası",
+   "country_support_url": "Ülke Destek URL'si",
+   "default": "Varsayılan",
+   "email_or_url_required_message": "Not: Ülke Destek E-postası veya URL'si sağlanmalıdır.",
+   "manage_organization_settings": "Kuruluş Ayarlarını Yönetme",
+   "must_be_valid_email": "Geçerli bir e-posta olmalı",
+   "must_be_valid_url": "Geçerli bir URL olmalı",
+   "note_at_least_one_contact": "Not: E-posta veya URL'den en az biri sağlanmalıdır.",
+   "organization": "Organizasyon",
+   "organization_display_name": "Kuruluş Görünen Adı",
+   "save": "Kaydet"
+}

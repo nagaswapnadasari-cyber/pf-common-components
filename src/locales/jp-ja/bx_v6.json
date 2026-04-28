@@ -1,0 +1,8 @@
+{
+   "caf_house_number_is_required_field": "番地は必須項目です。",
+   "course_or_registration_date_required": "コース開始日または登録日の入力が必要です。",
+   "cpm_failed_to_fetch_data": "データの取得に失敗しました。後ほど再度お試しください。",
+   "cpm_participant_id_not_found": "参加者のIDが見つかりません。",
+   "cpm_transfer_pending_request_exists": "この参加者については、すでに移籍申請が保留中です。",
+   "export_course_start_dates": "コース開始日"
+}

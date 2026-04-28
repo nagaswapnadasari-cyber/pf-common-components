@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF-ის მოთხოვნა დამტკიცდა",
+   "Caf_request_rejected": "CAF-ის მოთხოვნა უარყოფილია",
+   "approved_and_rejected_contact_note": "თუ გაქვთ კითხვები ამ ელ.ფოსტაში მოცემულ ინფორმაციასთან დაკავშირებით, გთხოვთ, დაუკავშირდეთ",
+   "approved_by_label": "დაამტკიცა",
+   "approved_footer_note": "ამ კურსისთვის დამატებითი ქმედება არ არის საჭირო.",
+   "approved_intro": "თქვენი კურსის აღრიცხვის ფორმის (CAF) მოთხოვნა დამტკიცდა.",
+   "below_are_the_details": "ქვემოთ მოცემულია დეტალები:",
+   "button_text": "გადასვლა კურსის გვერდზე",
+   "copyright": "საავტორო უფლება",
+   "course_dates_label": "კურსის თარიღ(ები)",
+   "course_id_label": "კურსის ID",
+   "course_type_label": "კურსის ტიპი",
+   "greeting": "ძვირფასო",
+   "reason_for_rejection": "უარყოფის მიზეზი",
+   "rejected_by_label": "უარყო",
+   "rejected_footer_note": "გთხოვთ, შეიტანოთ საჭირო კორექტირებები კურსის აღრიცხვის ფორმაში და ხელახლა წარადგინოთ დასამუშავებლად.",
+   "rejected_intro": "თქვენი კურსის აღრიცხვის ფორმის (CAF) მოთხოვნა უარყოფილია.",
+   "sincerely": "პატივისცემით",
+   "submitted_by_label": "წარადგინა",
+   "teacher_name_label": "მასწავლებლის სახელი(ები)",
+   "venue_label": "ადგილი"
+}

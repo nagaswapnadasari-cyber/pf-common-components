@@ -1,0 +1,14 @@
+{
+   "cancel": "Hætta við",
+   "country_support_email": "Tölvupóstur fyrir land",
+   "country_support_url": "Vefslóð fyrir stuðning við land",
+   "default": "Sjálfgefið",
+   "email_or_url_required_message": "Athugasemd: Annaðhvort netfang eða vefslóð fyrir stuðning við landið ætti að vera gefið upp.",
+   "manage_organization_settings": "Stjórna skipulagsstillingum",
+   "must_be_valid_email": "Verður að vera gildur tölvupóstur",
+   "must_be_valid_url": "Verður að vera gild vefslóð",
+   "note_at_least_one_contact": "Athugaðu: Að minnsta kosti einn af tölvupóstinum eða vefslóðinni ætti að vera gefinn upp.",
+   "organization": "Skipulag",
+   "organization_display_name": "Birtingarnafn stofnunar",
+   "save": "Vista"
+}

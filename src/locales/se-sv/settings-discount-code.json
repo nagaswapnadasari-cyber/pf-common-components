@@ -1,0 +1,19 @@
+{
+   "cancel": "Avbryt",
+   "course_type": "Typ av kurs",
+   "create": "Skapa",
+   "discount_code": "Rabattkod",
+   "discount_code_request_notification_users": " Välj de användare som ska få ett e-postmeddelande när en begäran om rabattkod skickas in:",
+   "error_loading_discount_code_settings": "Fel vid laddning av rabattkodinställningar",
+   "event_type": "Typ av händelse",
+   "finance_admin": "Ekonomiadministratör",
+   "manage_course_discount_settings": "Hantera inställningar för kursrabatt",
+   "manage_event_discount_settings": "Hantera inställningar för evenemangsrabatt",
+   "manage_event_discount_settings_marketing": "Hantera inställningar för rabatt på evenemang (Marknadsföring)",
+   "national_admin": "Nationell administration",
+   "none": "Ingen",
+   "organization": "Organisation",
+   "request": "Begäran",
+   "save": "Spara",
+   "teacher_discount_privileges": "Programorganisatör / Lärarrabattkod privilegier"
+}

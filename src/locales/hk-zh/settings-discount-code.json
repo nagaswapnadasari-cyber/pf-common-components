@@ -1,0 +1,19 @@
+{
+   "cancel": "取消",
+   "course_type": "课程类型",
+   "create": "创建",
+   "discount_code": "折扣代码",
+   "discount_code_request_notification_users": "请选择在提交折扣代码申请时应收到电子邮件通知的用户：",
+   "error_loading_discount_code_settings": "加载折扣码设置时出错",
+   "event_type": "活动类型",
+   "finance_admin": "财务管理",
+   "manage_course_discount_settings": "管理课程折扣设置",
+   "manage_event_discount_settings": "管理活动折扣设置",
+   "manage_event_discount_settings_marketing": "管理活动折扣设置（市场营销）",
+   "national_admin": "国家行政机构",
+   "none": "无",
+   "organization": "组织结构",
+   "request": "要求",
+   "save": "节省",
+   "teacher_discount_privileges": "计划组织者/教师折扣代码特权"
+}

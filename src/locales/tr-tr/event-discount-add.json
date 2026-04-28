@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "0 ile 100 arasında geçerli bir sayı girin.",
+   "event_id_tool_tip": "Etkinlik kimliğini bilmiyorsanız, uygun etkinliği aramak için yeni bir tarayıcı penceresinde Etkinlikleri Bul sayfasını açın. Arama sonuçlarında, etkinlik kimliği ilk sütunda gösterilecektir.",
+   "event_start_date_tool_tip": "İndirim kodu, seçilen tarih aralığında başlangıç tarihi olan etkinlikler için geçerli olacaktır.",
+   "event_start_dates": "Etkinlik Başlangıç Tarihleri",
+   "fee_component_discount_code_note": "Not: Lütfen indirim yapılacak ücret bileşeni tutarlarını girin. Bu, gerçek kurs ücretinden düşülecektir. İndirim uygulanmayacaksa 0 girin veya alanı boş bırakın.",
+   "final_discount_amount_may_vary_at_registration": "Nihai indirim tutarı, kayıt sırasında mevcut kurs ücretine, seçilen ücret seviyesine ve organizasyon kurallarına bağlı olarak değişebilir. Geçerli saatte geçerli son indirimi görüntülemek için lütfen “İndirimi Görüntüle” açılır penceresine bakın."
+}

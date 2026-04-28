@@ -1,0 +1,19 @@
+{
+   "cancel": "Zrušiť",
+   "course_type": "Typ kurzu",
+   "create": "Vytvoriť stránku",
+   "discount_code": "Zľavový kód",
+   "discount_code_request_notification_users": " Vyberte používateľov, ktorí majú dostať e-mailové upozornenie po odoslaní žiadosti o zľavový kód:",
+   "error_loading_discount_code_settings": "Chyba pri načítaní nastavení zľavového kódu",
+   "event_type": "Typ podujatia",
+   "finance_admin": "Správca financií",
+   "manage_course_discount_settings": "Správa nastavení zliav na kurzy",
+   "manage_event_discount_settings": "Správa nastavení zliav na udalosti",
+   "manage_event_discount_settings_marketing": "Správa nastavení zliav na podujatia (Marketing)",
+   "national_admin": "Národný administrátor",
+   "none": "Žiadne",
+   "organization": "Organizácia",
+   "request": "Žiadosť",
+   "save": "Uložiť",
+   "teacher_discount_privileges": "Organizátor programu / učiteľ zľavový kód"
+}

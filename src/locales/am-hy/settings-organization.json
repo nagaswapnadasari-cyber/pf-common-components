@@ -1,0 +1,14 @@
+{
+   "cancel": "Չեղարկել",
+   "country_support_email": "Երկրի աջակցության էլփոստ",
+   "country_support_url": "Երկրի աջակցության URL",
+   "default": "Լռելյայն",
+   "email_or_url_required_message": "Նշում. Պետք է տրամադրվի երկրի աջակցության էլ. փոստը կամ URL-ը:",
+   "manage_organization_settings": "Կառավարեք կազմակերպության պարամետրերը",
+   "must_be_valid_email": "Պետք է լինի վավեր էլփոստ",
+   "must_be_valid_url": "Պետք է լինի վավեր URL",
+   "note_at_least_one_contact": "Նշում. Էլփոստից կամ URL- ից առնվազն մեկը պետք է տրամադրվի:",
+   "organization": "Կազմակերպություն",
+   "organization_display_name": "Կազմակերպության ցուցադրման անվանումը",
+   "save": "Պահպանել"
+}

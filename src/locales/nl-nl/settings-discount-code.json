@@ -1,0 +1,19 @@
+{
+   "cancel": "Annuleren",
+   "course_type": "Type cursus",
+   "create": "Maak",
+   "discount_code": "Kortingscode",
+   "discount_code_request_notification_users": " Selecteer de gebruikers die een melding per e-mail moeten krijgen wanneer een kortingscode is aangevraagd:",
+   "error_loading_discount_code_settings": "Fout bij het laden van kortingscode-instellingen",
+   "event_type": "Type evenement",
+   "finance_admin": "Financiën Admin",
+   "manage_course_discount_settings": "Instellingen voor cursuskorting beheren",
+   "manage_event_discount_settings": "Instellingen voor evenementkorting beheren",
+   "manage_event_discount_settings_marketing": "Instellingen voor evenementkorting beheren (Marketing)",
+   "national_admin": "Nationaal Bestuur",
+   "none": "Geen",
+   "organization": "Organisatie",
+   "request": "Verzoek",
+   "save": "Sla",
+   "teacher_discount_privileges": "Programma Organisator / Docent kortingscode privileges"
+}

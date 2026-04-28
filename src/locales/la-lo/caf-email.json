@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "ການຮ້ອງຂໍ CAF ໄດ້ຮັບການອະນຸມັດແລ້ວ",
+   "Caf_request_rejected": "ການຮ້ອງຂໍ CAF ຖືກປະຕິເສດແລ້ວ",
+   "approved_and_rejected_contact_note": "ຖ້າທ່ານມີຄຳຖາມກ່ຽວກັບຂໍ້ມູນໃນອີເມວນີ້, ກະລຸນາຕິດຕໍ່",
+   "approved_by_label": "ອະນຸມັດໂດຍ",
+   "approved_footer_note": "ບໍ່ຈຳເປັນຕ້ອງມີການກະທຳເພີ່ມເຕີມສຳລັບຫຼັກສູດນີ້.",
+   "approved_intro": "ຄຳຮ້ອງຂໍແບບຟອມການບັນຊີຫຼັກສູດ (CAF) ຂອງທ່ານໄດ້ຮັບການອະນຸມັດແລ້ວ.",
+   "below_are_the_details": "Below are the details:",
+   "button_text": "Go to Course Page",
+   "copyright": "ສິລະປະແຫ່ງການດໍາລົງຊີວິດ 2024",
+   "course_dates_label": "Course date(s)",
+   "course_id_label": "Course ID",
+   "course_type_label": "Course type",
+   "greeting": "Dear",
+   "reason_for_rejection": "ເຫດຜົນໃນການປະຕິເສດ",
+   "rejected_by_label": "ປະຕິເສດໂດຍ",
+   "rejected_footer_note": "ກະລຸນາແກ້ໄຂຕາມທີ່ຮ້ອງຂໍໃສ່ໃນແບບຟອມການບັນຊີຫຼັກສູດ ແລະ ສົ່ງຄືນໃໝ່ເພື່ອດຳເນີນການ.",
+   "rejected_intro": "ຄຳຮ້ອງຂໍແບບຟອມການບັນຊີຫຼັກສູດ (CAF) ຂອງທ່ານຖືກປະຕິເສດແລ້ວ.",
+   "sincerely": "ດ້ວຍຄວາມນັບຖື",
+   "submitted_by_label": "Submitted by",
+   "teacher_name_label": "Teacher Name",
+   "venue_label": "Venue"
+}

@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF zahtjev odobren",
+   "Caf_request_rejected": "CAF zahtjev odbijen",
+   "approved_and_rejected_contact_note": "Ako imate pitanja u vezi s informacijama u ovoj e-pošti, kontaktirajte",
+   "approved_by_label": "Odobren od strane",
+   "approved_footer_note": "Za ovaj tečaj nije potrebna dodatna akcija.",
+   "approved_intro": "Vaš zahtjev za Obrazac za obračun troškova tečaja (CAF) je odobren.",
+   "below_are_the_details": "Ispod su detalji:",
+   "button_text": "Idi na stranicu kursa",
+   "copyright": "ART OF LIVING 2024",
+   "course_dates_label": "Datum(i) kursa",
+   "course_id_label": "ID kursa",
+   "course_type_label": "Tip kursa",
+   "greeting": "Poštovani",
+   "reason_for_rejection": "Razlog odbijanja",
+   "rejected_by_label": "Odbijen od strane",
+   "rejected_footer_note": "Molimo vas da izvršite tražene ispravke u obrascu za obračun troškova tečaja i ponovno ga pošaljete na obradu.",
+   "rejected_intro": "Vaš zahtjev za Obrazac za obračun troškova tečaja (CAF) je odbijen.",
+   "sincerely": "Iskreno",
+   "submitted_by_label": "Poslao",
+   "teacher_name_label": "Ime nastavnika",
+   "venue_label": "Mjesto održavanja"
+}

@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF 请求已批准",
+   "Caf_request_rejected": "CAF 请求被拒绝",
+   "approved_and_rejected_contact_note": "如果您对本电子邮件中的信息有疑问，请联系",
+   "approved_by_label": "批准者",
+   "approved_footer_note": "本课程不需要其他操作。",
+   "approved_intro": "您的课程会计表格 (CAF) 请求已获批准。",
+   "below_are_the_details": "以下是详细信息:",
+   "button_text": "转到课程页面",
+   "copyright": "ART OF LIVING 2024",
+   "course_dates_label": "课程日期",
+   "course_id_label": "课程 ID",
+   "course_type_label": "课程类型",
+   "greeting": "亲爱的",
+   "reason_for_rejection": "拒绝理由",
+   "rejected_by_label": "被拒绝者",
+   "rejected_footer_note": "请对课程会计表进行请求的更正，然后重新提交以进行处理。",
+   "rejected_intro": "您的课程会计表格 (CAF) 请求已被拒绝。",
+   "sincerely": "真诚的",
+   "submitted_by_label": "提交者",
+   "teacher_name_label": "教师姓名",
+   "venue_label": "地点"
+}
