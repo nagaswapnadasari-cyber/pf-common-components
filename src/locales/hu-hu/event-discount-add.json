@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Adjon meg egy érvényes számot 0 és 100 között.",
+   "event_id_tool_tip": "Ha nem ismeri az esemény azonosítóját, nyisson meg egy új böngészőablakban egy Események keresése oldalt a megfelelő esemény kereséséhez. A keresési eredményekben az esemény azonosítója az első oszlopban lesz látható.",
+   "event_start_date_tool_tip": "A kedvezménykód az adott időtartományban kezdődő eseményekre lesz érvényes.",
+   "event_start_dates": "Esemény kezdeti időpontjai",
+   "fee_component_discount_code_note": "Megjegyzés: Kérjük, adja meg a kedvezményes díjkomponensek összegét. Ez levonásra kerül a tényleges tanfolyami díjból. Ha nem kíván kedvezményt alkalmazni, írja be a 0 értéket, vagy hagyja üresen a mezőt.",
+   "final_discount_amount_may_vary_at_registration": "A végleges kedvezmény összege a regisztrációkor változhat, az aktuális tanfolyam díjától, a kiválasztott díjszinttől és a szervezet szabályaitól függően. A jelenleg érvényes végleges kedvezményt a „Kedvezmény megtekintése” felugró ablakban tekintheti meg."
+}

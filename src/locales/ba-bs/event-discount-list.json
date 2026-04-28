@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Preusmjeravanje na prvu stranicu sa detaljima o aktivnom/punom događaju.",
+   "event_id_redirect_canceled_event": "Preusmjeravanje na stranicu sa detaljima zadnjeg otkazanog događaja.",
+   "event_id_redirect_completed_event": "Preusmjeravanje na stranicu sa detaljima zadnjeg završenog događaja."
+}

@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF Talebi Onaylandı",
+   "Caf_request_rejected": "CAF Talebi Reddedildi",
+   "approved_and_rejected_contact_note": "Bu e-postadaki bilgilerle ilgili sorularınız varsa lütfen iletişime geçin",
+   "approved_by_label": "Onayla",
+   "approved_footer_note": "Bu kurs için ek bir işlem gerekmiyor.",
+   "approved_intro": "Kurs Muhasebe Formunuz (CAF) talebiniz onaylandı.",
+   "below_are_the_details": "Ayrıntılar aşağıdadır:",
+   "button_text": "Kurs Sayfasına Git",
+   "copyright": "Telif hakkı",
+   "course_dates_label": "Kurs tarihi(leri)",
+   "course_id_label": "Kurs Kimliği",
+   "course_type_label": "Kurs türü",
+   "greeting": "Sayın",
+   "reason_for_rejection": "Reddetme nedeni",
+   "rejected_by_label": "Reddeden",
+   "rejected_footer_note": "Lütfen kurs muhasebe formuna gerekli düzeltmeleri yapın ve işleme alınması için tekrar gönderin.",
+   "rejected_intro": "Kurs Muhasebe Formunuz (CAF) talebiniz reddedildi.",
+   "sincerely": "Saygılarımızla",
+   "submitted_by_label": "Gönderen",
+   "teacher_name_label": "Öğretmen adı(ları)",
+   "venue_label": "Yer"
+}

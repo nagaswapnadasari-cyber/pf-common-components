@@ -1,0 +1,14 @@
+{
+   "cancel": "Annuller",
+   "country_support_email": "E-mail til landsupport",
+   "country_support_url": "URL til landestøtte",
+   "default": "Standard",
+   "email_or_url_required_message": "Bemærk: Du skal enten angive en e-mailadresse eller en URL til landsupport.",
+   "manage_organization_settings": "Administrer organisationsindstillinger",
+   "must_be_valid_email": "Skal være en gyldig e-mail",
+   "must_be_valid_url": "Skal være en gyldig URL",
+   "note_at_least_one_contact": "Bemærk: Mindst én af e-mailadresserne eller URL-adresserne skal angives.",
+   "organization": "Organisation",
+   "organization_display_name": "Organisationens visningsnavn",
+   "save": "Gemme"
+}

@@ -1,0 +1,14 @@
+{
+   "cancel": "Zrušiť",
+   "country_support_email": "E-mailová adresa podpory krajiny",
+   "country_support_url": "URL adresa podpory krajiny",
+   "default": "Predvolené nastavenie",
+   "email_or_url_required_message": "Poznámka: Je potrebné uviesť buď e-mailovú adresu podpory krajiny, alebo adresu URL.",
+   "manage_organization_settings": "Správa nastavení organizácie",
+   "must_be_valid_email": "Musí to byť platný e-mail",
+   "must_be_valid_url": "Musí to byť platná adresa URL",
+   "note_at_least_one_contact": "Poznámka: Je potrebné uviesť aspoň jeden z e-mailov alebo URL.",
+   "organization": "Organizácia",
+   "organization_display_name": "Zobrazenie názvu organizácie",
+   "save": "Uložiť"
+}

@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "בקשת CAF אושרה",
+   "Caf_request_rejected": "בקשת CAF נדחתה",
+   "approved_and_rejected_contact_note": "אם יש לך שאלות בנוגע למידע בדוא\"ל זה, אנא פנה אל",
+   "approved_by_label": "אושר על ידי",
+   "approved_footer_note": "אין צורך בפעולה נוספת עבור קורס זה.",
+   "approved_intro": "בקשתך לטופס חשבונאות הקורס (CAF) אושרה.",
+   "below_are_the_details": "להלן הפרטים:",
+   "button_text": "עבור לדף הקורס",
+   "copyright": "זכויות יוצרים",
+   "course_dates_label": "תאריך/תאריכי הקורס",
+   "course_id_label": "מספר קורס",
+   "course_type_label": "סוג קורס",
+   "greeting": "שלום",
+   "reason_for_rejection": "סיבת הדחייה",
+   "rejected_by_label": "נדחה על ידי",
+   "rejected_footer_note": "נא בצע את התיקונים המבוקשים בטופס חשבונאות הקורס והגש אותו שוב לעיבוד.",
+   "rejected_intro": "בקשתך לטופס חשבונאות הקורס (CAF) נדחתה.",
+   "sincerely": "בברכה",
+   "submitted_by_label": "הוגש על ידי",
+   "teacher_name_label": "שם המורה(ים)",
+   "venue_label": "מקום"
+}

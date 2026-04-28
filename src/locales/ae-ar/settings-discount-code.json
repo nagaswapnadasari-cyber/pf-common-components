@@ -1,0 +1,19 @@
+{
+   "cancel": "إلغاء",
+   "course_type": "نوع الدورة",
+   "create": "إنشاء",
+   "discount_code": "رمز الخصم",
+   "discount_code_request_notification_users": "الرجاء تحديد المستخدمين الذين يجب أن يتلقوا إشعارًا عبر البريد الإلكتروني عند تقديم طلب رمز الخصم:",
+   "error_loading_discount_code_settings": "حدث خطأ أثناء تحميل إعدادات كود الخصم",
+   "event_type": "نوع الحدث",
+   "finance_admin": "مدير مالي",
+   "manage_course_discount_settings": "إدارة إعدادات خصم الدورة",
+   "manage_event_discount_settings": "إدارة إعدادات خصم الفعالية",
+   "manage_event_discount_settings_marketing": "إدارة إعدادات خصم الفعالية (التسويق)",
+   "national_admin": "مدير وطني",
+   "none": "لا شيء",
+   "organization": "منظمة",
+   "request": "طلب",
+   "save": "حفظ",
+   "teacher_discount_privileges": "امتيازات رمز الخصم لمنظم البرنامج / المعلم"
+}

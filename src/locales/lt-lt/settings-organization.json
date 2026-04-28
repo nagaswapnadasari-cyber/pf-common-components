@@ -1,0 +1,14 @@
+{
+   "cancel": "Atšaukti",
+   "country_support_email": "Šalies pagalbos el. paštas",
+   "country_support_url": "Šalies paramos URL",
+   "default": "Numatytoji",
+   "email_or_url_required_message": "Pastaba: Turėtų būti nurodytas šalies pagalbos el. pašto adresas arba URL.",
+   "manage_organization_settings": "Organizacijos nustatymų tvarkymas",
+   "must_be_valid_email": "Turi būti galiojantis el. pašto adresas",
+   "must_be_valid_url": "Turi būti galiojantis URL adresas",
+   "note_at_least_one_contact": "Pastaba: reikia nurodyti bent vieną el. pašto adresą arba URL.",
+   "organization": "Organizacija",
+   "organization_display_name": "Organizacijos rodomas pavadinimas",
+   "save": "Išsaugoti"
+}

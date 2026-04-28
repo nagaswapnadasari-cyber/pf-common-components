@@ -1,0 +1,19 @@
+{
+   "cancel": "בטל",
+   "course_type": "סוג הקורס",
+   "create": "ליצור",
+   "discount_code": "קוד הנחה",
+   "discount_code_request_notification_users": " אנא בחר את המשתמשים שצריכים לקבל הודעת דוא\"ל בעת הגשת בקשת קוד הנחה:",
+   "error_loading_discount_code_settings": "שגיאה בטעינת הגדרות קוד הנחה",
+   "event_type": "סוג האירוע",
+   "finance_admin": "מנהל כספים",
+   "manage_course_discount_settings": "ניהול הגדרות הנחה של קורס",
+   "manage_event_discount_settings": "ניהול הגדרות הנחה לאירועים",
+   "manage_event_discount_settings_marketing": "ניהול הגדרות הנחה לאירועים (שיווק)",
+   "national_admin": "מנהל לאומי",
+   "none": "אף אחד",
+   "organization": "ארגון",
+   "request": "בקשה",
+   "save": "שמור",
+   "teacher_discount_privileges": "מארגן התוכנה/הרשאות קוד הנחה למורה"
+}

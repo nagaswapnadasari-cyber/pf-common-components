@@ -1,0 +1,19 @@
+{
+   "cancel": "Откажи",
+   "course_type": "Тип на курсот",
+   "create": "Креирај",
+   "discount_code": "Код за попуст",
+   "discount_code_request_notification_users": " Ве молиме изберете ги корисниците кои треба да добијат известување по е-пошта кога ќе се поднесе барање за попуст код:",
+   "error_loading_discount_code_settings": "Грешка при вчитување на поставките за попуст",
+   "event_type": "Тип на настан",
+   "finance_admin": "Администратор за финансии",
+   "manage_course_discount_settings": "Управувајте со поставките за попуст на курсот",
+   "manage_event_discount_settings": "Управувајте со поставките за попуст на настани",
+   "manage_event_discount_settings_marketing": "Управување со поставките за попуст на настани (маркетинг)",
+   "national_admin": "Национален администратор",
+   "none": "Никој",
+   "organization": "Организација",
+   "request": "Барање",
+   "save": "Зачувај",
+   "teacher_discount_privileges": "Привилегии за кодови за попуст на Организаторот"
+}

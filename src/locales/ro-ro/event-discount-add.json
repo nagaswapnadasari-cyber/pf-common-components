@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Introduceți un număr valid între 0 și 100.",
+   "event_id_tool_tip": "Dacă nu cunoașteți ID-ul evenimentului, deschideți pagina Căutare evenimente într-o fereastră nouă a browserului pentru a căuta evenimentul potrivit. În rezultatele căutării, ID-ul evenimentului va fi afișat în prima coloană.",
+   "event_start_date_tool_tip": "Codul de reducere se va aplica pentru evenimentele cu date de începere din intervalul selectat.",
+   "event_start_dates": "Date de începere a evenimentului",
+   "fee_component_discount_code_note": "Notă: Vă rugăm să introduceți sumele componente ale taxei care urmează să fie reduse. Acestea vor fi deduse din taxa efectivă a cursului. Dacă nu se aplică nicio reducere, introduceți 0 sau lăsați câmpul gol.",
+   "final_discount_amount_may_vary_at_registration": "Valoarea finală a reducerii poate varia în momentul înregistrării, în funcție de taxa curentă a cursului, nivelul taxei selectate și regulile organizației. Vă rugăm să consultați fereastra pop-up „Vizualizați reducerea” pentru a vedea reducerea finală aplicabilă în momentul actual."
+}

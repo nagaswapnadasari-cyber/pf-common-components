@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Sláðu inn gilda tölu á bilinu 0 til 100.",
+   "event_id_tool_tip": "Ef þú þekkir ekki auðkenni viðburðarins skaltu opna síðuna Finna viðburði í nýjum vafraglugga til að leita að viðeigandi viðburði. Í leitarniðurstöðunum verður auðkenni viðburðarins sýnt í fyrsta dálki.",
+   "event_start_date_tool_tip": "Afsláttarkóðinn gildir fyrir viðburði með upphafsdagsetningar á völdu tímabili.",
+   "event_start_dates": "Upphafsdagsetningar viðburða",
+   "fee_component_discount_code_note": "Athugaðu: Vinsamlegast sláðu inn fjárhæðir gjaldaþáttar sem á að fá afslátt. Þetta verður dregið frá raunverulegu námskeiðsgjaldi. Ef enginn afsláttur á að nota skaltu slá inn 0 eða láta reitinn vera auður.",
+   "final_discount_amount_may_vary_at_registration": "Endanleg afsláttarupphæð getur verið breytileg við skráningu miðað við gildandi námskeiðsgjald, valið gjaldsstig og skipulagsreglur. Vinsamlegast vísaðu í sprettigluggann “Skoða afslátt” til að skoða endanlegan viðeigandi afslátt á núverandi tíma."
+}

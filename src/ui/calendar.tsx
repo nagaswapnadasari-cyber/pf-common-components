@@ -3,10 +3,11 @@
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import * as React from "react";
 import { DayPicker } from "react-day-picker";
+import { useTranslation } from "react-i18next";
 
 import { cn } from "../lib/utils";
 import { buttonVariants } from "./button";
-import dayjs from "dayjs";
+import { formatLocalizedMonth, formatLocalizedWeekday } from "../lib/i18n";
 
 export type CalendarProps = React.ComponentProps<typeof DayPicker>;
 
@@ -16,12 +17,15 @@ function Calendar({
   showOutsideDays = true,
   ...props
 }: CalendarProps) {
+  const { i18n } = useTranslation();
+  const locale = i18n?.language ?? "en";
+
   return (
     <DayPicker
       weekStartsOn={1}
       formatters={{
-        formatWeekdayName: (date, options) => {
-          return dayjs(date).format("ddd");
+        formatWeekdayName: (date) => {
+          return formatLocalizedWeekday(date, locale);
         },
       }}
       showOutsideDays={showOutsideDays}
@@ -67,7 +71,7 @@ function Calendar({
           // Extract the month from the props
           const { displayMonth } = props;
 
-          const month = dayjs(displayMonth).format("MMMM");
+          const month = formatLocalizedMonth(displayMonth, locale, "long");
 
           const year = displayMonth.getFullYear();
 

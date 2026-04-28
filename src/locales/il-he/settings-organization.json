@@ -1,0 +1,14 @@
+{
+   "cancel": "בטל",
+   "country_support_email": "דוא\"ל תמיכה במדינה",
+   "country_support_url": "כתובת אתר תמיכה במדינה",
+   "default": "ברירת מחדל",
+   "email_or_url_required_message": "הערה: יש לספק כתובת דוא\"ל או כתובת URL לתמיכה במדינה.",
+   "manage_organization_settings": "ניהול הגדרות ארגון",
+   "must_be_valid_email": "חייב להיות דוא\"ל חוקי",
+   "must_be_valid_url": "חייב להיות כתובת אתר חוקית",
+   "note_at_least_one_contact": "הערה: יש לספק לפחות אחד מהדוא\"ל או כתובת האתר.",
+   "organization": "ארגון",
+   "organization_display_name": "שם תצוגה של הארגון",
+   "save": "שמור"
+}

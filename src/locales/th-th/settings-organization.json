@@ -1,0 +1,14 @@
+{
+   "cancel": "ยกเลิก",
+   "country_support_email": "อีเมลสนับสนุนประจำประเทศ",
+   "country_support_url": "URL สนับสนุนประจำประเทศ",
+   "default": "ค่าเริ่มต้น",
+   "email_or_url_required_message": "หมายเหตุ: ควรระบุอีเมลหรือ URL สนับสนุนประเทศอย่างใดอย่างหนึ่ง",
+   "manage_organization_settings": "จัดการการตั้งค่าองค์กร",
+   "must_be_valid_email": "ต้องเป็นอีเมลที่ถูกต้อง",
+   "must_be_valid_url": "ต้องเป็น URL ที่ถูกต้อง",
+   "note_at_least_one_contact": "หมายเหตุ: ต้องระบุอีเมลหรือ URL อย่างน้อยหนึ่งรายการ",
+   "organization": "องค์กร",
+   "organization_display_name": "ชื่อที่แสดงขององค์กร",
+   "save": "บันทึก"
+}

@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "คำขอ CAF ได้รับการอนุมัติ",
+   "Caf_request_rejected": "คำขอ CAF ถูกปฏิเสธ",
+   "approved_and_rejected_contact_note": "หากคุณมีคำถามเกี่ยวกับข้อมูลในอีเมลนี้ โปรดติดต่อ",
+   "approved_by_label": "อนุมัติโดย",
+   "approved_footer_note": "ไม่จำเป็นต้องดำเนินการเพิ่มเติมสำหรับหลักสูตรนี้",
+   "approved_intro": "คำขอแบบฟอร์มบัญชีหลักสูตร (CAF) ของคุณได้รับการอนุมัติแล้ว",
+   "below_are_the_details": "รายละเอียดด้านล่างนี้:",
+   "button_text": "ไปที่หน้าหลักสูตร",
+   "copyright": "ART OF LIVING 2024",
+   "course_dates_label": "วันที่หลักสูตร",
+   "course_id_label": "รหัสหลักสูตร",
+   "course_type_label": "ประเภทหลักสูตร",
+   "greeting": "เรียน",
+   "reason_for_rejection": "เหตุผลในการปฏิเสธ",
+   "rejected_by_label": "ถูกปฏิเสธโดย",
+   "rejected_footer_note": "โปรดทำการแก้ไขที่ร้องขอในแบบฟอร์มบัญชีหลักสูตรและส่งใหม่เพื่อดำเนินการ",
+   "rejected_intro": "คำขอแบบฟอร์มบัญชีหลักสูตร (CAF) ของคุณถูกปฏิเสธ",
+   "sincerely": "ขอแสดงความนับถือ",
+   "submitted_by_label": "ส่งโดย",
+   "teacher_name_label": "ชื่อผู้สอน",
+   "venue_label": "สถานที่"
+}

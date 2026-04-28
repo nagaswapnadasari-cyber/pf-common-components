@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF pieprasījums apstiprināts",
+   "Caf_request_rejected": "CAF pieprasījums noraidīts",
+   "approved_and_rejected_contact_note": "Ja jums ir jautājumi par informāciju šajā e-pastā, lūdzu, sazinieties ar",
+   "approved_by_label": "Apstiprinājis",
+   "approved_footer_note": "Papildus darbības šim kursam nav nepieciešamas.",
+   "approved_intro": "Jūsu kursa grāmatvedības veidlapas (CAF) pieprasījums ir apstiprināts.",
+   "below_are_the_details": "Zemāk ir detalizēta informācija:",
+   "button_text": "Iet uz kursa lapu",
+   "copyright": "Autortiesības",
+   "course_dates_label": "Kursa datums(-i)",
+   "course_id_label": "Kursa ID",
+   "course_type_label": "Kursa tips",
+   "greeting": "Cienījamie",
+   "reason_for_rejection": "Noraidījuma iemesls",
+   "rejected_by_label": "Noraidījis",
+   "rejected_footer_note": "Lūdzu, veiciet nepieciešamās izmaiņas kursa grāmatvedības veidlapā un iesniedziet to atkārtoti apstrādei.",
+   "rejected_intro": "Jūsu kursa grāmatvedības veidlapas (CAF) pieprasījums ir noraidīts.",
+   "sincerely": "Ar cieņu",
+   "submitted_by_label": "Iesniedzis",
+   "teacher_name_label": "Pasniedzēja vārds(-i)",
+   "venue_label": "Norises vieta"
+}

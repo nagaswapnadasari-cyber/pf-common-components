@@ -4,7 +4,7 @@ import GetScrollTypesAlert from "../ui/GetScrollAlert";
 import DropDown from "src/assets/DropDown";
 import { uniqBy } from "lodash";
 import { X } from "lucide-react";
-import { useTranslation } from "next-i18next";
+import { useTranslation } from "react-i18next";
 import * as React from "react";
 import { useEffect, useState } from "react";
 import { Badge } from "./badge";
@@ -87,6 +87,7 @@ export function MultiSelect({
    */
   name?: string;
 }) {
+  const { t } = useTranslation(["common", "bx_v1"]);
   /**
    * with cmdk package it's not possible pass value as object or array of object expect number | string
    * So to override this we are going to stringify options whatever we are passing with the below conditions
@@ -353,7 +354,7 @@ export function MultiSelect({
                   disabled={disabled}
                 >
                   <span className="text-[16px] leading-none">+</span>{" "}
-                  Add
+                  {t("add_button")}
                 </button>
               </div>
             )}
@@ -426,7 +427,7 @@ export function MultiSelect({
                     placeholder={
                       searchPlaceholder
                         ? searchPlaceholder
-                        : "Search"
+                        : t("bx_v1:cm_search")
                     }
                     value={searchValue}
                   />
@@ -454,8 +455,8 @@ export function MultiSelect({
                     <CommandList className="max-h-[224px]">
                       <CommandEmpty>
                         {searchValue
-                          ? "No search results found"
-                          : "No Data"}
+                          ? t("bx_v1:cm_no_search_results_found")
+                          : t("bx_v1:cm_no_data")}
                       </CommandEmpty>
                       <GetScrollTypesAlert
                         id={"multiselect"}

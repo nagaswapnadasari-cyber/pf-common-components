@@ -1,0 +1,14 @@
+{
+   "cancel": "Ακύρωση",
+   "country_support_email": "Email υποστήριξης χώρας",
+   "country_support_url": "URL Υποστήριξης χώρας",
+   "default": "Προεπιλογή",
+   "email_or_url_required_message": "Σημείωση: Θα πρέπει να παρέχεται είτε το email υποστήριξης χώρας είτε η διεύθυνση URL.",
+   "manage_organization_settings": "Διαχείριση ρυθμίσεων οργάνωσης",
+   "must_be_valid_email": "Πρέπει να είναι έγκυρο email",
+   "must_be_valid_url": "Πρέπει να είναι ένα έγκυρο URL",
+   "note_at_least_one_contact": "Σημείωση: Θα πρέπει να παρέχεται τουλάχιστον ένα από τα email ή τη διεύθυνση URL.",
+   "organization": "Οργανισμός",
+   "organization_display_name": "Όνομα εμφάνισης οργανισμού",
+   "save": "Αποθήκευση"
+}

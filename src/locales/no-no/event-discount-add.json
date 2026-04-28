@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Skriv inn et gyldig tall mellom 0 og 100.",
+   "event_id_tool_tip": "Hvis du ikke vet arrangements-ID-en, kan du åpne siden Finn arrangementer i et nytt nettleservindu for å søke etter det aktuelle arrangementet. I søkeresultatene vises arrangements-ID-en i den første kolonnen.",
+   "event_start_date_tool_tip": " Rabattkoden gjelder for arrangementer med startdatoer innenfor det valgte området.",
+   "event_start_dates": "Arrangementsstartdatoer",
+   "fee_component_discount_code_note": "Merk: Vennligst skriv inn gebyrkomponentbeløpene som skal diskonteres. Dette vil bli trukket fra den faktiske kursavgiften. Hvis ingen rabatt skal brukes, skriver du inn 0 eller lar feltet stå tomt.",
+   "final_discount_amount_may_vary_at_registration": "Det endelige rabattbeløpet kan variere på registreringstidspunktet basert på gjeldende kursavgift, valgt gebyrnivå, og organisasjonsregler. Se popup-vinduet «Vis rabatt» for å se den endelige gjeldende rabatten på gjeldende tidspunkt."
+}

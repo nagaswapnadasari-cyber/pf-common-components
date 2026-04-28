@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Introduïu un nombre vàlid entre 0 i 100.",
+   "event_id_tool_tip": "Si no coneixeu l'identificador d'esdeveniment, obriu la pàgina Troba esdeveniments en una nova finestra del navegador per cercar l'esdeveniment adequat. Als resultats de la cerca, l'identificador d'esdeveniment es mostrarà a la primera columna.",
+   "event_start_date_tool_tip": "El codi de descompte serà aplicable als esdeveniments amb dates d'inici dins de l'interval seleccionat.",
+   "event_start_dates": "Dates d'inici de l'esdeveniment",
+   "fee_component_discount_code_note": "Nota: Si us plau, introduïu els imports del component de la tarifa a descomptar. Es descomptarà de la quota real del curs. Si no s'ha d'aplicar cap descompte, introduïu 0 o deixeu el camp en blanc.",
+   "final_discount_amount_may_vary_at_registration": "L'import final del descompte pot variar en el moment de la inscripció en funció de la tarifa actual del curs, el nivell de tarifa seleccionat i les normes d'organització. Si us plau, consulteu la finestra emergent “Veure descompte” per veure el descompte final aplicable en el moment actual."
+}

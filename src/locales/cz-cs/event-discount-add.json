@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Zadejte platné číslo v rozmezí 0 až 100.",
+   "event_id_tool_tip": "Pokud neznáte ID události, otevřete stránku Najít události v novém okně prohlížeče a vyhledejte příslušnou událost. V výsledcích vyhledávání se ID události zobrazí v prvním sloupci.",
+   "event_start_date_tool_tip": "Slevový kód bude použitelný pro události, jejichž datum zahájení spadá do vybraného rozsahu.",
+   "event_start_dates": "Termíny zahájení akce",
+   "fee_component_discount_code_note": "Poznámka: Zadejte částky složek poplatku, které mají být sníženy. Tato částka bude odečtena od skutečného poplatku za kurz. Pokud nemá být uplatněna žádná sleva, zadejte 0 nebo nechte pole prázdné.",
+   "final_discount_amount_may_vary_at_registration": "Konečná výše slevy se může v okamžiku registrace lišit v závislosti na aktuální ceně kurzu, zvolené úrovni poplatku a pravidlech organizace. Konečnou výši slevy platnou v daném okamžiku najdete v okně „Zobrazit slevu“."
+}

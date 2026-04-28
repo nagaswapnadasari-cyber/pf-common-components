@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Nhập một số hợp lệ từ 0 đến 100.",
+   "event_id_tool_tip": "Nếu bạn không biết ID sự kiện, hãy mở trang Tìm sự kiện trong một cửa sổ trình duyệt mới để tìm kiếm sự kiện phù hợp. Trong kết quả tìm kiếm, ID sự kiện sẽ được hiển thị trong cột đầu tiên.",
+   "event_start_date_tool_tip": "Mã giảm giá sẽ được áp dụng cho các sự kiện có ngày bắt đầu trong phạm vi đã chọn.",
+   "event_start_dates": "Ngày Bắt đầu Sự kiện",
+   "fee_component_discount_code_note": "Lưu ý: Vui lòng nhập số tiền thành phần phí sẽ được chiết khấu. Khoản này sẽ được khấu trừ vào phí khóa học thực tế. Nếu không áp dụng chiết khấu, hãy nhập 0 hoặc để trống trường.",
+   "final_discount_amount_may_vary_at_registration": "Số tiền chiết khấu cuối cùng có thể thay đổi tại thời điểm đăng ký dựa trên phí khóa học hiện tại, mức phí đã chọn và quy tắc tổ chức. Vui lòng tham khảo cửa sổ bật lên “Xem Giảm giá” để xem chiết khấu áp dụng cuối cùng tại thời điểm hiện tại."
+}

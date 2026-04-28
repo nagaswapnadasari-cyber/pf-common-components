@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Voer een geldig getal tussen 0 en 100 in.",
+   "event_id_tool_tip": "Als je het evenement-ID niet weet, open je de pagina Evenementen zoeken in een nieuw browservenster om naar het juiste evenement te zoeken. In de zoekresultaten wordt het evenement-ID in de eerste kolom weergegeven.",
+   "event_start_date_tool_tip": "De kortingscode is van toepassing op evenementen met startdatums binnen het geselecteerde bereik.",
+   "event_start_dates": "Aanvangsdata evenementen",
+   "fee_component_discount_code_note": "Opmerking: Voer de bedragen in van de kostencomponenten die in mindering moeten worden gebracht. Dit zal worden afgetrokken van het werkelijke cursusgeld. Als er geen korting wordt toegepast, vul dan 0 in of laat het veld leeg.",
+   "final_discount_amount_may_vary_at_registration": "Het uiteindelijke kortingsbedrag kan op het moment van registratie variëren op basis van het huidige cursusgeld, het geselecteerde tariefniveau en de regels van de organisatie. Raadpleeg het pop-upvenster 'Korting bekijken' om de uiteindelijke korting te zien die op dit moment van toepassing is."
+}

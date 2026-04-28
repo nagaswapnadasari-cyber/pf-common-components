@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Vnesite veljavno število med 0 in 100.",
+   "event_id_tool_tip": "Če ne poznate ID-ja dogodka, odprite stran Iskanje dogodkov v novem oknu brskalnika, da poiščete ustrezni dogodek. V rezultatih iskanja bo ID dogodka prikazan v prvem stolpcu.",
+   "event_start_date_tool_tip": "Koda za popust bo veljala za dogodke z začetnimi datumi v izbranem obdobju.",
+   "event_start_dates": "Datumi začetka dogodka",
+   "fee_component_discount_code_note": "Opomba: Vnesite zneske sestavnih delov pristojbine, ki jih je treba znižati. Ta znesek bo odštet od dejanske šolnine. Če se popust ne uporablja, vnesite 0 ali pustite polje prazno.",
+   "final_discount_amount_may_vary_at_registration": "Končni znesek popusta se lahko ob registraciji spremeni glede na trenutno ceno tečaja, izbrano stopnjo cene in pravila organizacije. Končni veljavni popust v trenutnem trenutku si oglejte v pojavnem oknu »Poglej popust«."
+}

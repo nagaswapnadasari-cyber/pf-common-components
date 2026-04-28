@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Enter a valid number between 0 and 100.",
+   "event_id_tool_tip": "If you don't know the event ID, open the Find Events page in a new browser window to search for the appropriate event. In the search results, the event ID will be shown in the first column.",
+   "event_start_date_tool_tip": "The discount code will be applicable for events with start dates in the selected range.",
+   "event_start_dates": "Event Start Dates",
+   "fee_component_discount_code_note": "Note: Please enter the fee component amounts to be discounted. This will be deducted from the actual course fee. If no discount is to be applied, enter 0 or leave the field blank.",
+   "final_discount_amount_may_vary_at_registration": "The final discount amount may vary at the time of registration based on the current course fee, selected fee level, and organization rules. Please refer to the “View Discount” popup to view the final applicable discount at the current time."
+}

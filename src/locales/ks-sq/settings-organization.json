@@ -1,0 +1,14 @@
+{
+   "cancel": "Anuloni",
+   "country_support_email": "Email për mbështetjen e vendit",
+   "country_support_url": "URL e mbështetjes së vendit",
+   "default": "Paracaktuar",
+   "email_or_url_required_message": "Shënim: Ose Email-i i Mbështetjes së Vendit ose URL-ja duhet të sigurohen.",
+   "manage_organization_settings": "Menaxhimi i Cilësimeve të",
+   "must_be_valid_email": "Duhet të jetë një email i vlefshëm",
+   "must_be_valid_url": "Duhet të jetë një URL e vlefshme",
+   "note_at_least_one_contact": "Shënim: Të paktën një nga emailet ose URL duhet të sigurohet.",
+   "organization": "Organizata",
+   "organization_display_name": "Emri i ekranit të organizatës",
+   "save": "Ruaj"
+}

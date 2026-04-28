@@ -1,0 +1,18 @@
+{
+   "cancel": "रद्द गर्नुहोस्",
+   "course_type": "कोर्सको प्रकार",
+   "create": "सिर्जना गर्नुहोस्",
+   "discount_code": "छुट कोड",
+   "discount_code_request_notification_users": "कृपया छुट कोड अनुरोध पेश गर्दा ईमेल सूचना प्राप्त गर्ने प्रयोगकर्ताहरू चयन गर्नुहोस्:",
+   "event_type": "घटना प्रकार",
+   "finance_admin": "वित्त प्रशासक",
+   "manage_course_discount_settings": "कोर्स छुट सेटिङहरू प्रबन्ध गर्नुहोस्",
+   "manage_event_discount_settings": "घटना छुट सेटिङहरू प्रबन्ध गर्नुहोस्",
+   "manage_event_discount_settings_marketing": "घटना छुट सेटिङहरू व्यवस्थापन गर्नुहोस् (मार्केटिंग)",
+   "national_admin": "राष्ट्रिय प्रशासक",
+   "none": "कुनै पनि होइन",
+   "organization": "संगठन",
+   "request": "अनुरोध",
+   "save": "सुरक्षित गर्नुहोस्",
+   "teacher_discount_privileges": "कार्यक्रम आयोजक / शिक्षक छुट कोड विशेषाधिकारहरू"
+}

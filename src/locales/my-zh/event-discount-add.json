@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "输入一个介于 0 和 100 之间的有效数字。",
+   "event_id_tool_tip": "如果您不知道事件ID，请在新浏览器窗口中打开“查找事件”页面，以搜索相应的事件。在搜索结果中，事件ID将显示在第一列中。",
+   "event_start_date_tool_tip": "折扣代码将适用于在选定范围内具有开始日期的事件。",
+   "event_start_dates": "活动开始日期",
+   "fee_component_discount_code_note": "注：请输入要打折的费用部分金额。这将从实际学费中扣除。如果不打折，请输入 0 或留空。",
+   "final_discount_amount_may_vary_at_registration": "最终折扣金额可能因当前课程费用、所选费率档位及机构规则而在注册时有所变动。请通过“查看折扣”弹窗查看当前适用的最终折扣金额。"
+}

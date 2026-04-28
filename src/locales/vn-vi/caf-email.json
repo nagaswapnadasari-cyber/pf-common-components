@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "Yêu cầu CAF đã được phê duyệt",
+   "Caf_request_rejected": "Yêu cầu CAF đã bị từ chối",
+   "approved_and_rejected_contact_note": "Nếu bạn có câu hỏi về thông tin trong email này, vui lòng liên hệ",
+   "approved_by_label": "Được phê duyệt bởi",
+   "approved_footer_note": "Không cần thêm hành động nào cho khóa học này.",
+   "approved_intro": "Yêu cầu Biểu mẫu Kế toán Khóa học (CAF) của bạn đã được Phê duyệt.",
+   "below_are_the_details": "Dưới đây là chi tiết:",
+   "button_text": "Đi tới Trang khóa học",
+   "copyright": "ART OF LIVING",
+   "course_dates_label": "Ngày khóa học",
+   "course_id_label": "ID khóa học",
+   "course_type_label": "Loại khóa học",
+   "greeting": "Chào bạn",
+   "reason_for_rejection": "Lý do từ chối",
+   "rejected_by_label": "Bị từ chối bởi",
+   "rejected_footer_note": "Vui lòng thực hiện các chỉnh sửa được yêu cầu đối với biểu mẫu kế toán khóa học và gửi lại để xử lý.",
+   "rejected_intro": "Yêu cầu Biểu mẫu Kế toán Khóa học (CAF) của bạn đã bị Từ chối.",
+   "sincerely": "Trân trọng",
+   "submitted_by_label": "Được gửi bởi",
+   "teacher_name_label": "Tên giáo viên",
+   "venue_label": "Địa điểm"
+}

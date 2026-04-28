@@ -1,5 +1,4 @@
 import { format } from "date-fns";
-import { useTranslation } from "next-i18next";
 import CalenderIcon from "../assets/CalenderIcon";
 import * as React from "react";
 import { Button } from "./button";
@@ -34,7 +33,6 @@ export function DateOfBirthSelector({
   toDate: Date;
   disabled?: boolean;
 }) {
-  const { t } = useTranslation("common");
   const [date, setDate] = React.useState<Date | undefined>(value);
   const [calendarOpen, setCalendarOpen] = React.useState(false);
 

@@ -1,0 +1,19 @@
+{
+   "cancel": "Annuler",
+   "course_type": "Type de cours",
+   "create": "Créer",
+   "discount_code": "Code de réduction",
+   "discount_code_request_notification_users": " Veuillez sélectionner les utilisateurs qui doivent recevoir une notification par courriel lorsqu'une demande de code de réduction est soumise :",
+   "error_loading_discount_code_settings": "Erreur lors du chargement des paramètres du code de réduction",
+   "event_type": "Type d'événement",
+   "finance_admin": "Administration des finances",
+   "manage_course_discount_settings": "Gérer les paramètres des remises de cours",
+   "manage_event_discount_settings": "Gérer les paramètres des remises sur les événements",
+   "manage_event_discount_settings_marketing": "Gérer les paramètres des remises sur les événements (Marketing)",
+   "national_admin": "Administration nationale",
+   "none": "Aucun",
+   "organization": "Organisation",
+   "request": "Request",
+   "save": "Économiser",
+   "teacher_discount_privileges": "Organisateur de programmes / Privilèges des codes de réduction pour les enseignants"
+}

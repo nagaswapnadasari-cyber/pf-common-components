@@ -1,0 +1,19 @@
+{
+   "cancel": "Atšaukti",
+   "course_type": "Kurso tipas",
+   "create": "Sukurti",
+   "discount_code": "Nuolaidos kodas",
+   "discount_code_request_notification_users": " Pasirinkite naudotojus, kurie turėtų gauti pranešimą el. paštu, kai pateikiamas nuolaidos kodo prašymas:",
+   "error_loading_discount_code_settings": "Klaida įkeliant nuolaidos kodo nustatymus",
+   "event_type": "Įvykio tipas",
+   "finance_admin": "Finansų administratorius",
+   "manage_course_discount_settings": "Tvarkyti kursų nuolaidų nustatymus",
+   "manage_event_discount_settings": "Renginių nuolaidų nustatymų tvarkymas",
+   "manage_event_discount_settings_marketing": "Renginių nuolaidų nustatymų tvarkymas (Rinkodara)",
+   "national_admin": "Nacionalinis administratorius",
+   "none": "Nėra",
+   "organization": "Organizacija",
+   "request": "Užklausa",
+   "save": "Išsaugoti",
+   "teacher_discount_privileges": "Programos organizatoriaus / Mokytojo nuolaidos kodo privilegijos"
+}

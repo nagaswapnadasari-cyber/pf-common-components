@@ -1,0 +1,19 @@
+{
+   "cancel": "Ακύρωση",
+   "course_type": "Τύπος μαθήματος",
+   "create": "Δημιουργία",
+   "discount_code": "Κωδικός έκπτωσης",
+   "discount_code_request_notification_users": " Παρακαλούμε επιλέξτε τους χρήστες που θα λαμβάνουν ειδοποίηση μέσω email όταν υποβάλλεται αίτημα για κωδικό έκπτωσης:",
+   "error_loading_discount_code_settings": "Σφάλμα κατά τη φόρτωση των ρυθμίσεων του κωδικού έκπτωσης",
+   "event_type": "Τύπος εκδήλωσης",
+   "finance_admin": "Διαχείριση Οικονομικών",
+   "manage_course_discount_settings": "Διαχείριση ρυθμίσεων έκπτωσης μαθημάτων",
+   "manage_event_discount_settings": "Διαχείριση ρυθμίσεων έκπτωσης συμβάντων",
+   "manage_event_discount_settings_marketing": "Διαχείριση ρυθμίσεων έκπτωσης εκδήλωσης (Μάρκετινγκ)",
+   "national_admin": "Εθνικός διαχειριστής",
+   "none": "Κανένα",
+   "organization": "Οργανισμός",
+   "request": "Αίτημα",
+   "save": "Αποθήκευση",
+   "teacher_discount_privileges": "Προνόμια κωδικού έκπτωσης Οργανωτή προγράμματος / Εκπαιδευτικού"
+}

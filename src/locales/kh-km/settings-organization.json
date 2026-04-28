@@ -1,0 +1,14 @@
+{
+   "cancel": "បោះបង់",
+   "country_support_email": "អ៊ីមែលជំនួយប្រទេស",
+   "country_support_url": "URL ជំនួយប្រទេស",
+   "default": "លំនាំដើម",
+   "email_or_url_required_message": "ចំណាំ: គួរតែផ្តល់អ៊ីមែល ឬ URL ជំនួយសម្រាប់ប្រទេស។",
+   "manage_organization_settings": "គ្រប់គ្រងការកំណត់អង្គការ",
+   "must_be_valid_email": "ត្រូវតែជាអ៊ីមែលត្រឹមត្រូវ",
+   "must_be_valid_url": "ត្រូវតែជា URL ត្រឹមត្រូវ",
+   "note_at_least_one_contact": "ចំណាំ៖ យ៉ាងហោចណាស់អ៊ីមែល ឬ URL មួយគួរតែត្រូវបានផ្តល់ជូន។",
+   "organization": "អង្គការ",
+   "organization_display_name": "ឈ្មោះបង្ហាញអង្គការ",
+   "save": "រក្សាទុក"
+}

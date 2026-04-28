@@ -1,0 +1,19 @@
+{
+   "cancel": "İptal",
+   "course_type": "Ders Türü",
+   "create": "Oluştur",
+   "discount_code": "İndirim Kodu",
+   "discount_code_request_notification_users": " Lütfen bir indirim kodu talebi gönderildiğinde e-posta bildirimi alması gereken kullanıcıları seçin:",
+   "error_loading_discount_code_settings": "İndirim kodu ayarları yüklenirken hata oluştu",
+   "event_type": "Etkinlik Türü",
+   "finance_admin": "Finans Yöneticisi",
+   "manage_course_discount_settings": "Kurs İndirimi Ayarlarını Yönetme",
+   "manage_event_discount_settings": "Etkinlik İndirimi Ayarlarını Yönetme",
+   "manage_event_discount_settings_marketing": "Etkinlik İndirimi Ayarlarını Yönetme (Pazarlama)",
+   "national_admin": "Ulusal Yönetici",
+   "none": "Yok",
+   "organization": "Organizasyon",
+   "request": "İstek",
+   "save": "Kaydet",
+   "teacher_discount_privileges": "Program Organizatörü/Öğretmen indirim kodu ayrıcalıkları"
+}

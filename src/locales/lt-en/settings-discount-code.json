@@ -1,0 +1,19 @@
+{
+   "cancel": "Cancel",
+   "course_type": "Course Type",
+   "create": "Create",
+   "discount_code": "Discount Code",
+   "discount_code_request_notification_users": " Please select the users who should get an email notification when a discount code request is submitted:",
+   "error_loading_discount_code_settings": "Error loading discount code settings",
+   "event_type": "Event Type",
+   "finance_admin": "Finance Admin",
+   "manage_course_discount_settings": "Manage Course Discount Settings",
+   "manage_event_discount_settings": "Manage Event Discount Settings",
+   "manage_event_discount_settings_marketing": "Manage Event Discount Settings (Marketing)",
+   "national_admin": "National Admin",
+   "none": "None",
+   "organization": "Organization",
+   "request": "Request",
+   "save": "Save",
+   "teacher_discount_privileges": "Program Organizer / Teacher discount code privileges"
+}

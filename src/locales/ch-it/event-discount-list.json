@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Reindirizzamento alla prima pagina dei dettagli dell'istanza di evento attiva/piena.",
+   "event_id_redirect_canceled_event": "Reindirizzamento alla pagina dei dettagli dell'ultima istanza di evento annullata.",
+   "event_id_redirect_completed_event": "Reindirizzamento alla pagina dei dettagli dell'ultima istanza di evento completata."
+}

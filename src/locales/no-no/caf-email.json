@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF-forespørsel godkjent",
+   "Caf_request_rejected": "CAF-forespørsel avvist",
+   "approved_and_rejected_contact_note": "Hvis du har spørsmål angående informasjonen i denne e-posten, vennligst kontakt",
+   "approved_by_label": "Godkjent av",
+   "approved_footer_note": "Ingen ytterligere tiltak kreves for dette kurset.",
+   "approved_intro": "Din forespørsel om Course Accounting Form (CAF) er godkjent.",
+   "below_are_the_details": "Under er detaljene:",
+   "button_text": "Gå til kursiden",
+   "copyright": "Opphavsrett",
+   "course_dates_label": "Kursdato(er)",
+   "course_id_label": "Kurs ID",
+   "course_type_label": "Kurstype",
+   "greeting": "Kjære",
+   "reason_for_rejection": "Årsak til avvisning",
+   "rejected_by_label": "Avvist av",
+   "rejected_footer_note": "Vennligst gjør de nødvendige endringene på kursregnskapskjemaet og send det inn på nytt for behandling.",
+   "rejected_intro": "Din forespørsel om Course Accounting Form (CAF) er avvist.",
+   "sincerely": "Vennlig hilsen",
+   "submitted_by_label": "Innsendt av",
+   "teacher_name_label": "Lærerens navn",
+   "venue_label": "Sted"
+}

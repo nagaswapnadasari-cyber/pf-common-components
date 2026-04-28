@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF kérelem jóváhagyva",
+   "Caf_request_rejected": "CAF kérelem elutasítva",
+   "approved_and_rejected_contact_note": "Ha kérdése van a levélben található információkkal kapcsolatban, kérjük, vegye fel a kapcsolatot",
+   "approved_by_label": "Jóváhagyta",
+   "approved_footer_note": "Ehhez a kurzushoz nincs szükség további intézkedésre.",
+   "approved_intro": "A Course Accounting Form (CAF) kérelmét jóváhagyták.",
+   "below_are_the_details": "Az alábbiakban találhatók a részletek:",
+   "button_text": "Ugrás a kurzus oldalára",
+   "copyright": "Szerzői jog",
+   "course_dates_label": "Kurzus időpontjai",
+   "course_id_label": "Kurzusazonosító",
+   "course_type_label": "Kurzus típusa",
+   "greeting": "Tisztelt",
+   "reason_for_rejection": "Elutasítás oka",
+   "rejected_by_label": "Elutasította",
+   "rejected_footer_note": "Kérjük, végezze el a szükséges javításokat a kurzus adatlapján, és küldje be újra feldolgozásra.",
+   "rejected_intro": "A Course Accounting Form (CAF) kérelmét elutasították.",
+   "sincerely": "Üdvözlettel",
+   "submitted_by_label": "Beküldte",
+   "teacher_name_label": "Oktató(k) neve",
+   "venue_label": "Helyszín"
+}

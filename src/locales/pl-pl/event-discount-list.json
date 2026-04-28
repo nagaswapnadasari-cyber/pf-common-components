@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Przekierowanie do pierwszej aktywnej/pełnej strony szczegółów wystąpienia.",
+   "event_id_redirect_canceled_event": "Przekierowanie do strony szczegółów ostatniego anulowanego wystąpienia.",
+   "event_id_redirect_completed_event": "Przekierowanie do strony szczegółów ostatniego ukończonego wystąpienia."
+}

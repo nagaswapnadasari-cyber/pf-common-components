@@ -1,0 +1,14 @@
+{
+   "cancel": "Anuluj",
+   "country_support_email": "Krajowy adres e-mail pomocy technicznej",
+   "country_support_url": "Krajowy adres URL pomocy technicznej",
+   "default": "Domyślny",
+   "email_or_url_required_message": "Uwaga: Należy podać adres e-mail lub adres URL pomocy technicznej dla danego kraju.",
+   "manage_organization_settings": "Zarządzanie ustawieniami organizacji",
+   "must_be_valid_email": "Musi to być prawidłowy adres e-mail",
+   "must_be_valid_url": "Musi to być prawidłowy adres URL",
+   "note_at_least_one_contact": "Uwaga: Należy podać co najmniej jeden z adresów e-mail lub URL.",
+   "organization": "Organizacja",
+   "organization_display_name": "Wyświetlana nazwa organizacji",
+   "save": "Zapisz"
+}

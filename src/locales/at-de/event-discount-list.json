@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Weiterleitung zur ersten Seite mit den Details der aktiven/vollständigen Ereignisinstanz.",
+   "event_id_redirect_canceled_event": "Weiterleitung zur Detailseite der letzten abgesagten Ereignisinstanz.",
+   "event_id_redirect_completed_event": "Weiterleitung zur Detailseite der letzten abgeschlossenen Ereignisinstanz."
+}

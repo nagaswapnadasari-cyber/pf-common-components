@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Ümbersuunamine esimesele aktiivse/täieliku sündmuse üksikasjade lehele.",
+   "event_id_redirect_canceled_event": "Ümbersuunamine viimase Tühistatud sündmuse instantsi detailide lehele.",
+   "event_id_redirect_completed_event": "Ümbersuunamine viimase lõpetatud sündmuse instantsi detailide lehele."
+}

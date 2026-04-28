@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "Заявка CAF одобрена",
+   "Caf_request_rejected": "Заявка CAF отклонена",
+   "approved_and_rejected_contact_note": "Если у вас есть вопросы относительно информации в этом письме, пожалуйста, свяжитесь с",
+   "approved_by_label": "Одобрено",
+   "approved_footer_note": "Для этого курса дополнительные действия не требуются.",
+   "approved_intro": "Ваша заявка на форму учета курса (CAF) была одобрена.",
+   "below_are_the_details": "Ниже приведены детали:",
+   "button_text": "Перейти на страницу курса",
+   "copyright": "Авторские права",
+   "course_dates_label": "Дата(ы) курса",
+   "course_id_label": "ID курса",
+   "course_type_label": "Тип курса",
+   "greeting": "Уважаемый/ая",
+   "reason_for_rejection": "Причина отклонения",
+   "rejected_by_label": "Отклонено",
+   "rejected_footer_note": "Пожалуйста, внесите необходимые исправления в форму учета курса и отправьте ее на повторную обработку.",
+   "rejected_intro": "Ваша заявка на форму учета курса (CAF) была отклонена.",
+   "sincerely": "С уважением",
+   "submitted_by_label": "Подано",
+   "teacher_name_label": "Имя преподавателя(ей)",
+   "venue_label": "Место проведения"
+}

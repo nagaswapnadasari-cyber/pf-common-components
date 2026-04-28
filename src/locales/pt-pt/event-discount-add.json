@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Insira um número válido entre 0 e 100.",
+   "event_id_tool_tip": "Se você não souber o ID do evento, abra a página Encontrar eventos em uma nova janela do navegador para pesquisar o evento apropriado. Nos resultados da pesquisa, o ID do evento será mostrado na primeira coluna.",
+   "event_start_date_tool_tip": "O código de desconto será aplicável a eventos com datas de início no intervalo selecionado.",
+   "event_start_dates": "Datas de Início do Evento",
+   "fee_component_discount_code_note": "Nota: Introduza os montantes das componentes da propina a descontar. Este valor será deduzido da propina efectiva do curso. Se não for aplicado qualquer desconto, introduza 0 ou deixe o campo em branco.",
+   "final_discount_amount_may_vary_at_registration": "O valor final do desconto pode variar no momento da inscrição, com base na taxa atual do curso, no nível de taxa selecionado e nas regras da organização. Consulte a janela pop-up «Ver desconto» para ver o desconto final aplicável no momento."
+}

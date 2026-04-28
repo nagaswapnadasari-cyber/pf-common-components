@@ -1,0 +1,19 @@
+{
+   "cancel": "Hætta við",
+   "course_type": "Tegund námskeiðs",
+   "create": "Búa til",
+   "discount_code": "Afsláttarkóði",
+   "discount_code_request_notification_users": " Vinsamlegast veldu þá notendur sem ættu að fá tilkynningu í tölvupósti þegar beiðni um afsláttarkóða er lögð fram:",
+   "error_loading_discount_code_settings": "Villa við að hlaða stillingum afsláttarkóða",
+   "event_type": "Tegund viðburðar",
+   "finance_admin": "Fjármálastjóri",
+   "manage_course_discount_settings": "Stjórna afsláttarstillingum námskeiðs",
+   "manage_event_discount_settings": "Stjórna stillingum viðburðarafsláttar",
+   "manage_event_discount_settings_marketing": "Stjórna viðburðarafsláttarstillingum (markaðssetning)",
+   "national_admin": "Landsstjórnandi",
+   "none": "Enginn",
+   "organization": "Skipulag",
+   "request": "Beiðni",
+   "save": "Vista",
+   "teacher_discount_privileges": "Forritaskipuleggjandi/Forréttindi afsláttarkóða kennara"
+}

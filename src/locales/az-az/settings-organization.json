@@ -1,0 +1,14 @@
+{
+   "cancel": "Ləğv et",
+   "country_support_email": "Ölkə dəstəyi e-poçtu",
+   "country_support_url": "Ölkə dəstəyi URL",
+   "default": "Varsayılan",
+   "email_or_url_required_message": "Qeyd: Ya Ölkə Dəstəyi E-poçtu, ya da URL təmin edilməlidir.",
+   "manage_organization_settings": "Təşkilat parametrlərini idarə",
+   "must_be_valid_email": "Etibarlı bir e-poçt olmalıdır",
+   "must_be_valid_url": "Etibarlı bir URL olmalıdır",
+   "note_at_least_one_contact": "Qeyd: E-poçt və ya URL-dən ən azı biri təqdim edilməlidir.",
+   "organization": "Təşkilat",
+   "organization_display_name": "Təşkilatın göstərilən adı",
+   "save": "Saxla"
+}

@@ -1,0 +1,14 @@
+{
+   "cancel": "Annuleren",
+   "country_support_email": "Land Support e-mail",
+   "country_support_url": "URL voor landenondersteuning",
+   "default": "Standaard",
+   "email_or_url_required_message": "Opmerking: Geef Country Support Email of URL op.",
+   "manage_organization_settings": "Organisatie-instellingen beheren",
+   "must_be_valid_email": "Moet een geldig e-mailadres zijn",
+   "must_be_valid_url": "Moet een geldige URL zijn",
+   "note_at_least_one_contact": "Opmerking: Er moet ten minste één e-mail of URL worden opgegeven.",
+   "organization": "Organisatie",
+   "organization_display_name": "Weergavenaam organisatie",
+   "save": "Sla"
+}

@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
     "target": "es6",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -15,21 +19,41 @@
     "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
-      "@components/*": ["src/components/*"],
-      "@components": ["src/components"],
-      "@contexts/*": ["src/contexts/*"],
-      "@contexts": ["src/contexts"],
-      "@styles/*": ["src/styles/*"],
-      "@styles": ["src/styles"],
-      "@public/*": ["public/*"],
-      "@public": ["public"]
+      "@components/*": [
+        "src/components/*"
+      ],
+      "@components": [
+        "src/components"
+      ],
+      "@contexts/*": [
+        "src/contexts/*"
+      ],
+      "@contexts": [
+        "src/contexts"
+      ],
+      "@styles/*": [
+        "src/styles/*"
+      ],
+      "@styles": [
+        "src/styles"
+      ],
+      "@public/*": [
+        "public/*"
+      ],
+      "@public": [
+        "public"
+      ]
     },
     "incremental": true,
-
     "outDir": "dist",
     "rootDir": "src",
     "declaration": true
   },
-  "include": ["src", "src/index.ts"],
-  "exclude": ["node_modules"]
+  "include": [
+    "src",
+    "src/index.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }

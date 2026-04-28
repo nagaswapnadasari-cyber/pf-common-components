@@ -1,0 +1,19 @@
+{
+   "cancel": "Annuller",
+   "course_type": "Kursustype",
+   "create": "Opret",
+   "discount_code": "Rabatkode",
+   "discount_code_request_notification_users": " Vælg de brugere, der skal modtage en e-mail, når der sendes en anmodning om en rabatkode:",
+   "error_loading_discount_code_settings": "Fejl ved indlæsning af indstillinger for rabatkode",
+   "event_type": "Begivenhedstype",
+   "finance_admin": "Finansadministration",
+   "manage_course_discount_settings": "Administrer indstillinger for kursusrabat",
+   "manage_event_discount_settings": "Administrer indstillinger for begivenhedsrabat",
+   "manage_event_discount_settings_marketing": "Administrer indstillinger for rabat på begivenheder (marketing)",
+   "national_admin": "National administration",
+   "none": "Ingen",
+   "organization": "Organisation",
+   "request": "Anmodning",
+   "save": "Gemme",
+   "teacher_discount_privileges": "Privilegier til programorganisator / lærerrabatkode"
+}

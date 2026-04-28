@@ -1,0 +1,19 @@
+{
+   "cancel": "Zrušit",
+   "course_type": "Typ kurzu",
+   "create": "Vytvořit",
+   "discount_code": "Kód slevy",
+   "discount_code_request_notification_users": " Vyberte uživatele, kteří mají dostávat e-mailové upozornění při odeslání žádosti o slevový kód:",
+   "error_loading_discount_code_settings": "Chyba při načítání nastavení slevového kódu",
+   "event_type": "Typ události",
+   "finance_admin": "Správce financí",
+   "manage_course_discount_settings": "Správa nastavení slev na kurzy",
+   "manage_event_discount_settings": "Správa nastavení slev událostí",
+   "manage_event_discount_settings_marketing": "Správa nastavení slev událostí (Marketing)",
+   "national_admin": "Národní administrátor",
+   "none": "Žádné",
+   "organization": "Organizace",
+   "request": "Žádost",
+   "save": "Uložit",
+   "teacher_discount_privileges": "Organizátor programu / Učitel slevový kód oprávnění"
+}

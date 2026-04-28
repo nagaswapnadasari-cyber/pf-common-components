@@ -1,0 +1,19 @@
+{
+   "cancel": "Avbryt",
+   "course_type": "Kurstype",
+   "create": "Opprette",
+   "discount_code": "Rabattkode",
+   "discount_code_request_notification_users": " Velg brukerne som skal få et e-postvarsel når en forespørsel om rabattkode sendes inn:",
+   "error_loading_discount_code_settings": "Feil ved lasting av rabattkodeinnstillinger",
+   "event_type": "Hendelsestype",
+   "finance_admin": "Økonomiadministrator",
+   "manage_course_discount_settings": "Administrer innstillinger for emnerabatt",
+   "manage_event_discount_settings": "Administrer innstillinger for hendelsesrabatt",
+   "manage_event_discount_settings_marketing": "Administrer innstillinger for hendelsesrabatt (markedsføring)",
+   "national_admin": "Nasjonal administrator",
+   "none": "Ingen",
+   "organization": "Organisasjon",
+   "request": "Forespørsel",
+   "save": "Lagre",
+   "teacher_discount_privileges": "Programarrangør/lærerrabattkodeprivilegier"
+}

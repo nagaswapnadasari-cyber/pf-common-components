@@ -1,0 +1,14 @@
+{
+   "cancel": "रद्द गर्नुहोस्",
+   "country_support_email": "देश समर्थन इमेल",
+   "country_support_url": "देश समर्थन URL",
+   "default": "पूर्वनिर्धारित",
+   "email_or_url_required_message": "नोट: या त देश समर्थन इमेल वा URL प्रदान गरिनुपर्छ।",
+   "manage_organization_settings": "संगठन सेटिङहरू प्रबन्ध गर्नुहोस्",
+   "must_be_valid_email": "मान्य इमेल हुनुपर्छ",
+   "must_be_valid_url": "मान्य URL हुनुपर्छ",
+   "note_at_least_one_contact": "नोट: कम्तिमा एउटा इमेल वा URL प्रदान गरिनुपर्छ।",
+   "organization": "संगठन",
+   "organization_display_name": "संगठन प्रदर्शन नाम",
+   "save": "सुरक्षित गर्नुहोस्"
+}

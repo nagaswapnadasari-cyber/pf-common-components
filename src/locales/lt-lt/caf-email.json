@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF užklausa patvirtinta",
+   "Caf_request_rejected": "CAF užklausa atmesta",
+   "approved_and_rejected_contact_note": "Jei turite klausimų dėl šio elektroninio laiško informacijos, susisiekite su",
+   "approved_by_label": "Patvirtinta",
+   "approved_footer_note": "Šiam kursui papildomi veiksmai nereikalingi.",
+   "approved_intro": "Jūsų Course Accounting Form (CAF) užklausa buvo patvirtinta.",
+   "below_are_the_details": "Žemiau pateikiami duomenys:",
+   "button_text": "Eiti į kurso puslapį",
+   "copyright": "Autorių teisės",
+   "course_dates_label": "Kurso datos",
+   "course_id_label": "Kurso ID",
+   "course_type_label": "Kursų pavadinimas",
+   "greeting": "Gerb.",
+   "reason_for_rejection": "Atmetimo priežastis",
+   "rejected_by_label": "Atmesta",
+   "rejected_footer_note": "Prašome atlikti reikiamus pataisymus kurso ataskaitos formoje ir ją vėl pateikti apdoroti.",
+   "rejected_intro": "Jūsų Course Accounting Form (CAF) užklausa buvo atmesta.",
+   "sincerely": "Pagarbiai",
+   "submitted_by_label": "Pateikta",
+   "teacher_name_label": "Mokytojo (-ų) vardas",
+   "venue_label": "Vieta"
+}

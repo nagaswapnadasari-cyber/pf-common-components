@@ -1,0 +1,19 @@
+{
+   "cancel": "Cancelar",
+   "course_type": "Tipo de curso",
+   "create": "Cree",
+   "discount_code": "Código de descuento",
+   "discount_code_request_notification_users": " Seleccione los usuarios que deben recibir una notificación por correo electrónico cuando se envíe una solicitud de código de descuento:",
+   "error_loading_discount_code_settings": "Error al cargar la configuración del código de descuento",
+   "event_type": "Tipo de evento",
+   "finance_admin": "Administración financiera",
+   "manage_course_discount_settings": "Gestionar la configuración del descuento del curso",
+   "manage_event_discount_settings": "Gestionar la configuración del descuento por evento",
+   "manage_event_discount_settings_marketing": "Gestionar la configuración de descuentos para eventos (Marketing)",
+   "national_admin": "Administración nacional",
+   "none": "Ninguno",
+   "organization": "Organización",
+   "request": "Solicitar",
+   "save": "Guardar",
+   "teacher_discount_privileges": "Organizador del programa / Privilegios del código de descuento para profesores"
+}

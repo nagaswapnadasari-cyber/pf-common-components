@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Wprowadź prawidłową liczbę z zakresu od 0 do 100.",
+   "event_id_tool_tip": "Jeśli nie znasz identyfikatora wydarzenia, otwórz stronę Wyszukiwania wydarzeń w nowym oknie przeglądarki, aby wyszukać odpowiednie wydarzenie. W wynikach wyszukiwania identyfikator wydarzenia będzie wyświetlany w pierwszej kolumnie.",
+   "event_start_date_tool_tip": "Kod rabatowy będzie miał zastosowanie do wydarzeń, których daty rozpoczęcia mieszczą się w wybranym zakresie.",
+   "event_start_dates": "Daty rozpoczęcia wydarzeń",
+   "fee_component_discount_code_note": "Uwaga: Wprowadź kwoty składowe opłaty, które mają zostać obniżone. Zostaną one odjęte od rzeczywistej opłaty za kurs. Jeśli zniżka nie ma być zastosowana, wpisz 0 lub pozostaw pole puste.",
+   "final_discount_amount_may_vary_at_registration": "Ostateczna kwota zniżki może się różnić w momencie rejestracji w zależności od aktualnej ceny kursu, wybranego poziomu opłaty i zasad organizacji. Aby sprawdzić ostateczną zniżkę obowiązującą w danym momencie, należy zapoznać się z wyskakującym okienkiem „Wyświetl zniżkę”."
+}

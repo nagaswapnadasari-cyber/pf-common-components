@@ -1,0 +1,19 @@
+{
+   "cancel": "Tühista",
+   "course_type": "Kursuse tüüp",
+   "create": "Loo",
+   "discount_code": "Allahindluskood",
+   "discount_code_request_notification_users": " Palun valige kasutajad, kes peaksid saama e-kirjaga teate, kui allahindluskoodi taotlus esitatakse:",
+   "error_loading_discount_code_settings": "Viga allahindluskoodi seadete laadimisel",
+   "event_type": "Sündmuse tüüp",
+   "finance_admin": "Rahanduse administraator",
+   "manage_course_discount_settings": "Kursuse allahindluse seadete haldamine",
+   "manage_event_discount_settings": "Sündmuse allahindluse seadete haldamine",
+   "manage_event_discount_settings_marketing": "Sündmuse allahindluse seadete haldamine (turundus)",
+   "national_admin": "Riiklik haldusasutus",
+   "none": "Puudub",
+   "organization": "Organisatsioon",
+   "request": "Taotlus",
+   "save": "Salvesta",
+   "teacher_discount_privileges": "Programmi korraldaja / õpetaja allahindluskoodi privileegid"
+}

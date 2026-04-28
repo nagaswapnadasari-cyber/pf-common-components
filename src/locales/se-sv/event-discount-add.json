@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Ange ett giltigt tal mellan 0 och 100.",
+   "event_id_tool_tip": "Om du inte känner till evenemangets ID, öppna sidan Hitta evenemang i ett nytt webbläsarfönster för att söka efter rätt evenemang. I sökresultaten visas evenemangets ID i den första kolumnen.",
+   "event_start_date_tool_tip": " Rabattkoden gäller för evenemang med startdatum inom det valda intervallet.",
+   "event_start_dates": "Startdatum för evenemang",
+   "fee_component_discount_code_note": "Obs: Ange de belopp för avgiftskomponenter som ska rabatteras. Detta kommer att dras av från den faktiska kursavgiften. Om ingen rabatt ska tillämpas, ange 0 eller lämna fältet tomt.",
+   "final_discount_amount_may_vary_at_registration": "Det slutliga rabattbeloppet kan variera vid registreringstillfället beroende på aktuell kursavgift, vald avgiftsnivå och organisationsregler. Se popup-fönstret \"Visa rabatt\" för att se den slutliga tillämpliga rabatten vid aktuell tidpunkt."
+}

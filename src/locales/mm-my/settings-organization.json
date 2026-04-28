@@ -1,0 +1,14 @@
+{
+   "cancel": "မလုပ်တော့ပါ",
+   "country_support_email": "နိုင်ငံအထောက်အပံ့ အီးမေးလ်",
+   "country_support_url": "နိုင်ငံအထောက်အပံ့ URL",
+   "default": "ပုံမှန်",
+   "email_or_url_required_message": "မှတ်ချက်: နိုင်ငံအလိုက်အီးမေးလ်ပံ့ပိုးမှု (သို့) URL တစ်ခုခုကိုပေးရပါမည်။",
+   "manage_organization_settings": "အဖွဲ့အစည်းဆက်တင်များကို စီမံပါ",
+   "must_be_valid_email": "မှန်ကန်သော အီးမေးလ်ဖြစ်ရမည်",
+   "must_be_valid_url": "မှန်ကန်သော URL တစ်ခု ဖြစ်ရမည်",
+   "note_at_least_one_contact": "မှတ်ချက်- အီးမေးလ် သို့မဟုတ် URL တစ်ခုခုကို ပေးရမည်။",
+   "organization": "အဖွဲ့အစည်း",
+   "organization_display_name": "အဖွဲ့အစည်း မျက်နှာပြင်အမည်",
+   "save": "သိမ်းပါ"
+}

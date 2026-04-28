@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF-ի դիմումը հաստատվել է",
+   "Caf_request_rejected": "CAF-ի դիմումը մերժվել է",
+   "approved_and_rejected_contact_note": "Եթե ունեք հարցեր այս էլ․փոստի մեջ գտնվող տեղեկատվության վերաբերյալ, խնդրում ենք կապվել",
+   "approved_by_label": "Հաստատել է",
+   "approved_footer_note": "Այս կուրսի համար լրացուցիչ գործողություններ չեն պահանջվում։",
+   "approved_intro": "Ձեր կուրսի հաշվապահական ձևի (CAF) դիմումը հաստատվել է։",
+   "below_are_the_details": "Նշված են մանրամասները։",
+   "button_text": "Գնալ կուրսի էջ",
+   "copyright": "Հեղինակային իրավունք",
+   "course_dates_label": "Կուրսի ամսաթիվ(ներ)",
+   "course_id_label": "Կուրսի ID",
+   "course_type_label": "Կուրսի տեսակ",
+   "greeting": "Սիրելի",
+   "reason_for_rejection": "Մերժման պատճառը",
+   "rejected_by_label": "Մերժել է",
+   "rejected_footer_note": "Խնդրում ենք կատարել կուրսի հաշվապահական ձևի անհրաժեշտ ուղղումները և կրկին ներկայացնել մշակման։",
+   "rejected_intro": "Ձեր կուրսի հաշվապահական ձևի (CAF) դիմումը մերժվել է։",
+   "sincerely": "Քննարկումով",
+   "submitted_by_label": "Ներկայացրել է",
+   "teacher_name_label": "Դասախոսի անուն(ներ)",
+   "venue_label": "Վայր"
+}

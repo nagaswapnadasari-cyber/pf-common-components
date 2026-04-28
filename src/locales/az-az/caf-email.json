@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF Sorğusu Təsdiqləndi",
+   "Caf_request_rejected": "CAF Sorğusu Rədd Edildi",
+   "approved_and_rejected_contact_note": "Əgər bu e-poçtdakı məlumatlarla bağlı sualınız varsa, zəhmət olmasa, əlaqə saxlayın",
+   "approved_by_label": "Təsdiqləyən",
+   "approved_footer_note": "Bu kurs üçün əlavə hərəkət tələb olunmur.",
+   "approved_intro": "Kurs Mühasibatlıq Formunuzun (CAF) sorğusu təsdiqləndi.",
+   "below_are_the_details": "Ətraflı məlumatlar aşağıdadır:",
+   "button_text": "Kurs səhifəsinə keçid",
+   "copyright": "Müəllif hüququ",
+   "course_dates_label": "Kurs tarixi(ləri)",
+   "course_id_label": "Kurs kodu",
+   "course_type_label": "Kurs növü",
+   "greeting": "Hörmətli",
+   "reason_for_rejection": "Rədd edilmə səbəbi",
+   "rejected_by_label": "Rədd edən",
+   "rejected_footer_note": "Zəhmət olmasa, kurs mühasibatlıq formasında tələb olunan düzəlişləri edin və yenidən emal üçün təqdim edin.",
+   "rejected_intro": "Kurs Mühasibatlıq Formunuzun (CAF) sorğusu rədd edildi.",
+   "sincerely": "Hörmətlə",
+   "submitted_by_label": "Təqdim edən",
+   "teacher_name_label": "Müəllim adı(lar)",
+   "venue_label": "Məkan"
+}

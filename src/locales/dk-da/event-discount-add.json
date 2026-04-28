@@ -1,0 +1,8 @@
+{
+   "discount_code_percentage_value_between_0_and_100": "Indtast et gyldigt tal mellem 0 og 100.",
+   "event_id_tool_tip": "Hvis du ikke kender begivenheds-id'et, skal du åbne siden Find begivenheder i et nyt browservindue for at søge efter den relevante begivenhed. I søgeresultaterne vises begivenheds-id'et i den første kolonne.",
+   "event_start_date_tool_tip": "Rabatkoden gælder for begivenheder med startdatoer inden for det valgte interval.",
+   "event_start_dates": "Begivenhedens startdatoer",
+   "fee_component_discount_code_note": "Bemærk: Indtast venligst de gebyrkomponenter, der skal nedsættes. Dette vil blive trukket fra det faktiske kursusgebyr. Hvis der ikke skal gives rabat, skal du indtaste 0 eller lade feltet være tomt.",
+   "final_discount_amount_may_vary_at_registration": "Det endelige rabatbeløb kan variere på tilmeldingstidspunktet afhængigt af det aktuelle kursusgebyr, det valgte gebyrniveau og organisationens regler. Se pop op-vinduet \"Vis rabat\" for at se den endelige gældende rabat på det aktuelle tidspunkt."
+}

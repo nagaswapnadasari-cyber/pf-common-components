@@ -1,0 +1,14 @@
+{
+   "cancel": "إلغاء",
+   "country_support_email": "البريد الإلكتروني لدعم الدولة",
+   "country_support_url": "عنوان URL لدعم الدولة",
+   "default": "افتراضي",
+   "email_or_url_required_message": "ملاحظة: يجب توفير إما البريد الإلكتروني أو عنوان URL لدعم البلد.",
+   "manage_organization_settings": "إدارة إعدادات المؤسسة",
+   "must_be_valid_email": "يجب أن يكون بريدًا إلكترونيًا صالحًا",
+   "must_be_valid_url": "يجب أن يكون عنوان URL صالحًا",
+   "note_at_least_one_contact": "ملاحظة: يجب توفير واحد على الأقل من البريد الإلكتروني أو عنوان URL.",
+   "organization": "منظمة",
+   "organization_display_name": "اسم عرض المؤسسة",
+   "save": "حفظ"
+}

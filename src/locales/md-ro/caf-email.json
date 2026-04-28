@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "Cerere CAF aprobată",
+   "Caf_request_rejected": "Cerere CAF respinsă",
+   "approved_and_rejected_contact_note": "Dacă aveți întrebări cu privire la informațiile din acest e-mail, vă rugăm să contactați",
+   "approved_by_label": "Aprobat de",
+   "approved_footer_note": "Nu sunt necesare acțiuni suplimentare pentru acest curs.",
+   "approved_intro": "Cererea dumneavoastră pentru formularul de contabilitate al cursului (CAF) a fost aprobată.",
+   "below_are_the_details": "Mai jos sunt detaliile:",
+   "button_text": "Accesați pagina cursului",
+   "copyright": "Drepturi de autor",
+   "course_dates_label": "Data(e) cursului",
+   "course_id_label": "ID curs",
+   "course_type_label": "Tip curs",
+   "greeting": "Stimate",
+   "reason_for_rejection": "Motivul respingerii",
+   "rejected_by_label": "Respins de",
+   "rejected_footer_note": "Vă rugăm să faceți corecțiile necesare la formularul de contabilitate al cursului și să-l trimiteți din nou pentru procesare.",
+   "rejected_intro": "Cererea dumneavoastră pentru formularul de contabilitate al cursului (CAF) a fost respinsă.",
+   "sincerely": "Cu respect",
+   "submitted_by_label": "Trimis de",
+   "teacher_name_label": "Numele profesorilor",
+   "venue_label": "Locație"
+}

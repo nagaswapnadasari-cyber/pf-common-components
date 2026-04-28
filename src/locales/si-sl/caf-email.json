@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "Zahteva CAF odobrena",
+   "Caf_request_rejected": "Zahteva CAF zavrnjena",
+   "approved_and_rejected_contact_note": "Če imate kakršnakoli vprašanja glede informacij v tem e-poštnem sporočilu, se obrnite na",
+   "approved_by_label": "Odobreno s strani",
+   "approved_footer_note": "Za ta tečaj ni potrebno nič več narediti.",
+   "approved_intro": "Tvoje računovodsko poročilo (CAF) je bilo odobreno.",
+   "below_are_the_details": "Spodaj so podrobnosti:",
+   "button_text": "Pojdi na stran tečaja",
+   "copyright": "Avtorske pravice",
+   "course_dates_label": "Datum(i) tečaja",
+   "course_id_label": "ID tečaja",
+   "course_type_label": "Vrsta tečaja",
+   "greeting": "Dragi(a)",
+   "reason_for_rejection": "Razlog zavrnitve",
+   "rejected_by_label": "Zavrnjeno s strani",
+   "rejected_footer_note": "Vnesi zahtevane popravke k računovodskemu poročilu in ponovno oddaj v pregled.",
+   "rejected_intro": "Tvoje računovodsko poročilo (CAF) je bilo zavrnjeno.",
+   "sincerely": "S spoštovanjem",
+   "submitted_by_label": "Poslano s strani",
+   "teacher_name_label": "Ime učitelja",
+   "venue_label": "Prostor izvedbe"
+}

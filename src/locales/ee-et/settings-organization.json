@@ -1,0 +1,14 @@
+{
+   "cancel": "Tühista",
+   "country_support_email": "Riigi tugi E-post",
+   "country_support_url": "Riigiabi URL",
+   "default": "Vaikimisi",
+   "email_or_url_required_message": "Märkus: Tuleb esitada kas riigi tugi e-posti aadress või URL.",
+   "manage_organization_settings": "Organisatsiooni seadete haldamine",
+   "must_be_valid_email": "Peab olema kehtiv e-posti aadress",
+   "must_be_valid_url": "Peab olema kehtiv URL",
+   "note_at_least_one_contact": "Märkus: Vähemalt üks e-posti või URL peaks olema esitatud.",
+   "organization": "Organisatsioon",
+   "organization_display_name": "Organisatsiooni kuvatud nimi",
+   "save": "Salvesta"
+}

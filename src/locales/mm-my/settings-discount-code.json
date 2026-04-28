@@ -1,0 +1,18 @@
+{
+   "cancel": "မလုပ်တော့ပါ",
+   "course_type": "သင်တန်းအမျိုးအစား",
+   "create": "ဖန်တီး",
+   "discount_code": "လျှော့စျေးကုဒ်",
+   "discount_code_request_notification_users": "လျှော့စျေးကုဒ်တောင်းဆိုမှုကို တင်သွင်းသောအခါ အီးမေးလ်အကြောင်းကြားစာ ရရှိသင့်သော အသုံးပြုသူများကို ရွေးချယ်ပါ",
+   "event_type": "ဖြစ်ရပ်အမျိုးအစား",
+   "finance_admin": "ဘဏ္ဍာရေးအုပ်ချုပ်သူ",
+   "manage_course_discount_settings": "သင်တန်းလျှော့စျေးဆက်တင်များကို စီမံပါ",
+   "manage_event_discount_settings": "ပွဲလျှော့စျေးဆက်တင်များကို စီမံပါ",
+   "manage_event_discount_settings_marketing": "ပွဲတော်လျှော့စျေး ဆက်တင်များကို စီမံပါ (စျေးကွက်ရှာဖွေရေး)",
+   "national_admin": "အမျိုးသားအုပ်ချုပ်သူ",
+   "none": "မရှိ",
+   "organization": "အဖွဲ့အစည်း",
+   "request": "တောင်းဆို",
+   "save": "သိမ်းပါ",
+   "teacher_discount_privileges": "အစီအစဉ်စီစဉ်သူ/ဆရာ လျှော့စျေးကုဒ် အခွင့်အရေးများ"
+}

@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF барањето е одобрено",
+   "Caf_request_rejected": "CAF барањето е одбиено",
+   "approved_and_rejected_contact_note": "Доколку имате прашања во врска со информациите во овој е-мејл, ве молиме контактирајте",
+   "approved_by_label": "Одобрено од",
+   "approved_footer_note": "Не се потребни дополнителни дејства за овој курс.",
+   "approved_intro": "Вашето барање за образец за сметководство на курсеви (CAF) е одобрено.",
+   "below_are_the_details": "Подолу се деталите:",
+   "button_text": "Оди на страницата на курсот",
+   "copyright": "Авторски права",
+   "course_dates_label": "Датум(и) на курсот",
+   "course_id_label": "ИД на курс",
+   "course_type_label": "Тип на курс",
+   "greeting": "Почитувани",
+   "reason_for_rejection": "Причина за одбивање",
+   "rejected_by_label": "Одбиено од",
+   "rejected_footer_note": "Ве молиме направете ги потребните корекции на образецот за сметководство на курсеви и повторно доставете го за обработка.",
+   "rejected_intro": "Вашето барање за образец за сметководство на курсеви (CAF) е одбиено.",
+   "sincerely": "Искрено ваш",
+   "submitted_by_label": "Подадено од",
+   "teacher_name_label": "Име на предавач(и)",
+   "venue_label": "Место"
+}

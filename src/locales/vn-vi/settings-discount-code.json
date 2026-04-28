@@ -1,0 +1,19 @@
+{
+   "cancel": "Hủy bỏ",
+   "course_type": "Loại khóa học",
+   "create": "Tạo",
+   "discount_code": "Mã giảm giá",
+   "discount_code_request_notification_users": "Vui lòng chọn người dùng sẽ nhận được thông báo email khi có yêu cầu mã giảm giá được gửi:",
+   "error_loading_discount_code_settings": "Lỗi khi tải cài đặt mã giảm giá",
+   "event_type": "Loại sự kiện",
+   "finance_admin": "Quản trị viên tài chính",
+   "manage_course_discount_settings": "Quản lý cài đặt giảm giá khóa học",
+   "manage_event_discount_settings": "Quản lý cài đặt giảm giá sự kiện",
+   "manage_event_discount_settings_marketing": "Quản lý Cài đặt Giảm giá Sự kiện (Tiếp thị)",
+   "national_admin": "Quản trị viên quốc gia",
+   "none": "Không có",
+   "organization": "Tổ chức",
+   "request": "Yêu cầu",
+   "save": "Lưu",
+   "teacher_discount_privileges": "Đặc quyền mã giảm giá của Người tổ chức / Giáo viên Chương trình"
+}

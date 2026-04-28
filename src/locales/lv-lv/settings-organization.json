@@ -1,0 +1,14 @@
+{
+   "cancel": "Atcelt",
+   "country_support_email": "Valsts atbalsta e-pasta adrese",
+   "country_support_url": "Valsts atbalsta URL",
+   "default": "Noklusējuma",
+   "email_or_url_required_message": "Piezīme: jānorāda vai nu valsts atbalsta e-pasta adrese, vai URL.",
+   "manage_organization_settings": "Organizācijas iestatījumu pārvaldība",
+   "must_be_valid_email": "Jābūt derīgam e-pasta adresātam",
+   "must_be_valid_url": "Jābūt derīgam URL adresam",
+   "note_at_least_one_contact": "Piezīme: jānorāda vismaz viens no e-pastiem vai URL.",
+   "organization": "Organizācija",
+   "organization_display_name": "Organizācijas nosaukums",
+   "save": "Saglabāt"
+}

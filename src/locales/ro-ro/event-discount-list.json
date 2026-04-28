@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Redirecționare către prima pagină de detalii a instanței de eveniment activă/plină.",
+   "event_id_redirect_canceled_event": "Redirecționarea către pagina Detalii a ultimei instanțe de eveniment anulat.",
+   "event_id_redirect_completed_event": "Redirecționare către pagina Detalii a ultimei instanțe de eveniment finalizată."
+}

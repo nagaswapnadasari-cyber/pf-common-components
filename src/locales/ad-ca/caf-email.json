@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "Sol·licitud CAF aprovada",
+   "Caf_request_rejected": "Sol·licitud CAF rebutjada",
+   "approved_and_rejected_contact_note": "Si teniu preguntes sobre la informació d'aquest correu electrònic, poseu-vos en contacte amb",
+   "approved_by_label": "Aprovat per",
+   "approved_footer_note": "No cal cap acció addicional per a aquest curs.",
+   "approved_intro": "La vostra sol·licitud de formulari de comptabilitat del curs (CAF) ha estat aprovada.",
+   "below_are_the_details": "A continuació es detallen els detalls:",
+   "button_text": "Anar a la pàgina del curs",
+   "copyright": "ART OF LIVING 2024",
+   "course_dates_label": "Data(es) del curs",
+   "course_id_label": "ID del curs",
+   "course_type_label": "Tipus de curs",
+   "greeting": "Estimat/da",
+   "reason_for_rejection": "Motiu del rebuig",
+   "rejected_by_label": "Rebutjat per",
+   "rejected_footer_note": "Si us plau, feu les correccions sol·licitades al formulari de comptabilitat del curs i torneu-lo a enviar per al seu processament.",
+   "rejected_intro": "La vostra sol·licitud de formulari de comptabilitat del curs (CAF) ha estat rebutjada.",
+   "sincerely": "Cordialment",
+   "submitted_by_label": "Enviat per",
+   "teacher_name_label": "Nom del professor",
+   "venue_label": "Lloc"
+}

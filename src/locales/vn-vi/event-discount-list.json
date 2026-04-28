@@ -1,0 +1,5 @@
+{
+   "event_id_redirect_active_event": "Đang chuyển hướng đến trang Chi tiết phiên bản sự kiện đang hoạt động/đầy đủ đầu tiên.",
+   "event_id_redirect_canceled_event": "Đang chuyển hướng đến trang Chi tiết của Phiên bản sự kiện đã hủy cuối cùng.",
+   "event_id_redirect_completed_event": "Đang chuyển hướng đến trang Chi tiết của Phiên bản sự kiện đã hoàn thành cuối cùng."
+}

@@ -1,0 +1,19 @@
+{
+   "cancel": "ยกเลิก",
+   "course_type": "ประเภทหลักสูตร",
+   "create": "สร้าง",
+   "discount_code": "รหัสส่วนลด",
+   "discount_code_request_notification_users": "โปรดเลือกผู้ใช้ที่จะได้รับการแจ้งเตือนทางอีเมลเมื่อมีการส่งคำขอรหัสส่วนลด:",
+   "error_loading_discount_code_settings": "เกิดข้อผิดพลาดในการโหลดการตั้งค่ารหัสส่วนลด",
+   "event_type": "ประเภทกิจกรรม",
+   "finance_admin": "ผู้ดูแลระบบการเงิน",
+   "manage_course_discount_settings": "จัดการการตั้งค่าส่วนลดของหลักสูตร",
+   "manage_event_discount_settings": "จัดการการตั้งค่าส่วนลดของกิจกรรม",
+   "manage_event_discount_settings_marketing": "จัดการการตั้งค่าส่วนลดกิจกรรม (การตลาด)",
+   "national_admin": "ผู้ดูแลระบบระดับชาติ",
+   "none": "ไม่มี",
+   "organization": "องค์กร",
+   "request": "คำขอ",
+   "save": "บันทึก",
+   "teacher_discount_privileges": "สิทธิพิเศษสำหรับรหัสส่วนลดของผู้จัดงาน/ครูอาจารย์"
+}

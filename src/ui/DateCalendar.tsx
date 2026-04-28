@@ -1,10 +1,11 @@
 import * as React from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { DayPicker } from "react-day-picker";
+import { useTranslation } from "react-i18next";
 
 import { cn } from "../lib/utils";
-import dayjs from "dayjs";
 import { buttonVariants } from "./button";
+import { formatLocalizedMonth, formatLocalizedWeekday } from "../lib/i18n";
 
 export type DateCalendarProps = React.ComponentProps<typeof DayPicker>;
 
@@ -18,12 +19,15 @@ function DateCalendar({
   toDate,
   ...props
 }: DateCalendarProps & { count?: number }) {
+  const { i18n } = useTranslation();
+  const locale = i18n?.language ?? "en";
+
   return (
     <DayPicker
       weekStartsOn={1}
       formatters={{
-        formatWeekdayName: (date, options) => {
-          return dayjs(date).format("ddd");
+        formatWeekdayName: (date) => {
+          return formatLocalizedWeekday(date, locale);
         },
       }}
       disabled={{
@@ -71,7 +75,7 @@ function DateCalendar({
           // Extract the month from the props
           const { displayMonth } = props;
 
-          const month = dayjs(displayMonth).format("MMMM");
+          const month = formatLocalizedMonth(displayMonth, locale, "long");
 
           const year = displayMonth.getFullYear();
 

@@ -1,0 +1,18 @@
+{
+   "cancel": " අවලංගු කරන්න",
+   "course_type": "སློབ་ཚན་གྱི་དབྱེ་བ།",
+   "create": "གསར་བསྐྲུན།",
+   "discount_code": "མར་མཇུག་གི་ཨང་རྟགས།",
+   "discount_code_request_notification_users": " གོང་ཚད་མར་ཕབ་ཀྱི་ཨང་རྟགས་ཀྱི་ཞུ་བ་ཕུལ་བའི་སྐབས་ལུ་ གློག་འཕྲིན་བརྡ་ལན་འཐོབ་དགོ་པའི་ ལག་ལེན་པ་ཚུ་ སེལ་འཐུ་འབད་གནང་།:",
+   "event_type": "བྱ་རིམ་དབྱེ་ཁག",
+   "finance_admin": "དངུལ་རྩིས་བདག་སྐྱོང་པ་",
+   "manage_course_discount_settings": "སློབ་ཚན་གྱི་ ཆག་ཡན་སྒྲིག་སྟངས་ འཛིན་སྐྱོང་འབད་",
+   "manage_event_discount_settings": "འཛིན་སྐྱོང་གི་བྱ་བའི་དོན་ལུ་ གོང་ཚད་མར་ཕབ་ཀྱི་སྒྲིག་སྟངས་ཚུ་ འཛིན་སྐྱོང་འཐབ།",
+   "manage_event_discount_settings_marketing": "བྱ་སྒོའི་ ཚོང་འགྲེམས་ ཆ་མཉམ་གྱི་ འཛིན་སྐྱོང་འབད་",
+   "national_admin": "རྒྱལ་ཁབ་བདག་སྐྱོང་པ་",
+   "none": "མེད།",
+   "organization": "Organization",
+   "request": "ཞུ་འབོད།",
+   "save": "བསྲུངས།",
+   "teacher_discount_privileges": "ལས་རིམ་འགོ་འདྲེན་པ་ / དགེ་རྒན་གྱི་  rebater ཐོབ་དབང་།"
+}

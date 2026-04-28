@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF अनुरोध स्वीकृत भयो",
+   "Caf_request_rejected": "CAF अनुरोध अस्वीकृत भयो",
+   "approved_and_rejected_contact_note": "यदि तपाईंसँग यस इमेलमा भएको जानकारी सम्बन्धी प्रश्नहरू छन् भने, कृपया सम्पर्क गर्नुहोस्",
+   "approved_by_label": "स्वीकृत गर्ने व्यक्ति",
+   "approved_footer_note": "यस पाठ्यक्रमको लागि कुनै अतिरिक्त कार्य आवश्यक छैन।",
+   "approved_intro": "तपाईंको पाठ्यक्रम लेखा फारम (CAF) अनुरोध स्वीकृत गरिएको छ।",
+   "below_are_the_details": "तल विवरणहरू दिइएका छन्:",
+   "button_text": "पाठ्यक्रम पृष्ठमा जानुहोस्",
+   "copyright": "आर्ट अफ लिभिङ २०२४",
+   "course_dates_label": "पाठ्यक्रम मिति(हरू)",
+   "course_id_label": "पाठ्यक्रम आईडी",
+   "course_type_label": "पाठ्यक्रम प्रकार",
+   "greeting": "प्रिय",
+   "reason_for_rejection": "अस्वीकृतिको कारण",
+   "rejected_by_label": "अस्वीकृत गर्ने व्यक्ति",
+   "rejected_footer_note": "कृपया पाठ्यक्रम लेखा फारममा अनुरोध गरिएको सुधार गरी प्रशोधनका लागि पुन: पेश गर्नुहोस्।",
+   "rejected_intro": "तपाईंको पाठ्यक्रम लेखा फारम (CAF) अनुरोध अस्वीकृत गरिएको छ।",
+   "sincerely": "इमान्दारीपूर्वक",
+   "submitted_by_label": "द्वारा पेश गरिएको",
+   "teacher_name_label": "शिक्षकको नाम",
+   "venue_label": "स्थान"
+}

@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "CAF beiðni samþykkt",
+   "Caf_request_rejected": "CAF beiðni hafnað",
+   "approved_and_rejected_contact_note": "Ef þú hefur spurningar varðandi upplýsingarnar í þessum tölvupósti, vinsamlegast hafðu samband við",
+   "approved_by_label": "Samþykkt af",
+   "approved_footer_note": "Engar frekari aðgerðir eru nauðsynlegar fyrir þetta námskeið.",
+   "approved_intro": "Beiðni þín um námskeiðsreikningsform (CAF) hefur verið samþykkt.",
+   "below_are_the_details": "Hér að neðan eru upplýsingarnar:",
+   "button_text": "Fara á námskeiðssíðu",
+   "copyright": "ART OF LIVING 2024",
+   "course_dates_label": "Dagsetning(ar) námskeiðs",
+   "course_id_label": "Námskeiðs ID",
+   "course_type_label": "Tegund námskeiðs",
+   "greeting": "Kæri",
+   "reason_for_rejection": "Ástæða fyrir höfnun",
+   "rejected_by_label": "Hafnað af",
+   "rejected_footer_note": "Vinsamlegast gerðu umbeðnar leiðréttingar á námskeiðsreikningsforminu og sendu það aftur til vinnslu.",
+   "rejected_intro": "Beiðni þín um námskeiðsreikningsform (CAF) hefur verið hafnað.",
+   "sincerely": "Með kveðju",
+   "submitted_by_label": "Sent inn af",
+   "teacher_name_label": "Nafn kennara",
+   "venue_label": "Staðsetning"
+}

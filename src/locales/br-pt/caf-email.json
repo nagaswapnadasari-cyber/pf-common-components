@@ -1,0 +1,23 @@
+{
+   "Caf_request_pproved": "Solicitação CAF Aprovada",
+   "Caf_request_rejected": "Solicitação CAF Rejeitada",
+   "approved_and_rejected_contact_note": "Se você tiver dúvidas sobre as informações deste e-mail, entre em contato com",
+   "approved_by_label": "Aprovado por",
+   "approved_footer_note": "Nenhuma ação adicional é necessária para este curso.",
+   "approved_intro": "Sua solicitação de formulário de contabilidade de curso (CAF) foi aprovada.",
+   "below_are_the_details": "Abaixo estão os detalhes:",
+   "button_text": "Ir para a página do curso",
+   "copyright": "Copyright",
+   "course_dates_label": "Data(s) do curso",
+   "course_id_label": "ID do curso",
+   "course_type_label": "Tipo de curso",
+   "greeting": "Prezado(a)",
+   "reason_for_rejection": "Razão da rejeição",
+   "rejected_by_label": "Rejeitado por",
+   "rejected_footer_note": "Por favor, faça as correções necessárias no formulário de contabilidade do curso e envie-o novamente para processamento.",
+   "rejected_intro": "Sua solicitação de formulário de contabilidade de curso (CAF) foi rejeitada.",
+   "sincerely": "Atenciosamente",
+   "submitted_by_label": "Submetido por",
+   "teacher_name_label": "Nome(s) do(s) professor(es)",
+   "venue_label": "Local"
+}
